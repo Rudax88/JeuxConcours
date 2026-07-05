@@ -35,34 +35,40 @@
   .compteur{margin-top:8px;font-size:14px;color:var(--gris);font-family:'Archivo Narrow',sans-serif}
   .compteur strong{color:var(--encre)}
 
-  /* ------- bloc mise à jour ------- */
-  .maj{
+  /* ------- bloc sources ------- */
+  .sources{
     background:var(--encre);border-radius:16px;padding:16px;
     margin:14px 0;color:#fff;
   }
-  .maj-titre{font-weight:900;font-size:16px}
-  .maj-info{
+  .sources-titre{font-weight:900;font-size:16px}
+  .sources-info{
     font-family:'Archivo Narrow',sans-serif;font-size:13px;
-    color:#B9BBC1;margin-top:3px;
+    color:#B9BBC1;margin-top:3px;line-height:1.4;
   }
-  .btn-maj{
-    margin-top:12px;width:100%;background:var(--rouge);color:#fff;
-    border:none;border-radius:10px;padding:14px 0;
-    font-family:'Archivo',sans-serif;font-weight:900;font-size:15.5px;
-    cursor:pointer;transition:transform .1s ease;
+  .grille-sources{
+    display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-top:12px;
   }
-  .btn-maj:active{transform:scale(.97)}
-  .btn-maj:disabled{background:#5a5b60;cursor:wait}
-  .btn-maj:focus-visible{outline:2px solid #fff;outline-offset:2px}
-  .maj-etat{
-    font-family:'Archivo Narrow',sans-serif;font-size:13px;margin-top:10px;
-    color:#B9BBC1;display:none;
+  .btn-source{
+    display:flex;align-items:center;justify-content:space-between;
+    background:#26282D;color:#fff;border:1.5px solid #3A3C42;
+    border-radius:10px;padding:12px 13px;text-decoration:none;
+    font-family:'Archivo',sans-serif;font-weight:700;font-size:14px;
+    transition:transform .1s ease;
   }
-  .maj-etat.visible{display:block}
-  .maj-etat.erreur{color:#FF8A8A}
-  .maj-etat.ok{color:#7BD9A2}
-  @keyframes pulse{0%,100%{opacity:1}50%{opacity:.45}}
-  .maj-etat.chargement{animation:pulse 1.2s infinite}
+  .btn-source:active{transform:scale(.96)}
+  .btn-source:focus-visible{outline:2px solid #fff;outline-offset:2px}
+  .btn-source .fleche{color:var(--rouge);font-weight:900}
+  .btn-source.visite{border-color:var(--vert)}
+  .btn-source.visite .fleche{color:var(--vert)}
+  .btn-source small{
+    display:block;font-family:'Archivo Narrow',sans-serif;font-weight:500;
+    font-size:11.5px;color:#B9BBC1;margin-top:2px;
+  }
+  .astuce{
+    font-family:'Archivo Narrow',sans-serif;font-size:12.5px;color:#B9BBC1;
+    margin-top:12px;line-height:1.45;
+  }
+  .astuce b{color:#fff}
 
   /* ------- onglets ------- */
   .onglets{display:flex;gap:6px;margin:16px 0 14px}
@@ -99,12 +105,6 @@
     color:var(--gris);background:#F0EFEA;border-radius:5px;
     padding:2px 7px;margin-top:8px;
   }
-  .etiquette-nouveau{
-    display:inline-block;font-family:'Archivo Narrow',sans-serif;font-size:11.5px;
-    font-weight:600;letter-spacing:.06em;text-transform:uppercase;
-    color:#fff;background:var(--vert);border-radius:5px;
-    padding:2px 7px;margin-top:8px;margin-right:6px;
-  }
   .badge{
     flex-shrink:0;font-family:'Archivo Narrow',sans-serif;font-weight:600;
     font-size:12.5px;padding:4px 10px;border-radius:999px;
@@ -137,19 +137,15 @@
   .vide p{font-family:'Archivo Narrow',sans-serif;font-size:15px;line-height:1.5}
 
   .flottant{
-    position:fixed;bottom:22px;right:18px;
-    background:var(--carte);color:var(--encre);
-    border:1.5px solid var(--ligne);border-radius:999px;
-    font-family:'Archivo',sans-serif;font-weight:700;font-size:14px;
-    padding:13px 20px;cursor:pointer;
-    box-shadow:0 4px 14px rgba(23,24,27,.15);z-index:20;
+    position:fixed;bottom:22px;left:50%;transform:translateX(-50%);
+    background:var(--rouge);color:#fff;border:none;border-radius:999px;
+    font-family:'Archivo',sans-serif;font-weight:900;font-size:16px;
+    padding:15px 30px;cursor:pointer;
+    box-shadow:0 6px 18px rgba(227,6,19,.35);z-index:20;
+    transition:transform .12s ease;
   }
-  .flottant:focus-visible{outline:2px solid var(--rouge);outline-offset:2px}
-
-  .avertissement{
-    font-family:'Archivo Narrow',sans-serif;font-size:12px;color:var(--gris);
-    text-align:center;margin-top:22px;line-height:1.5;
-  }
+  .flottant:active{transform:translateX(-50%) scale(.95)}
+  .flottant:focus-visible{outline:3px solid var(--encre);outline-offset:2px}
 
   /* ------- formulaire ------- */
   .voile{
@@ -178,7 +174,7 @@
   .champ textarea{resize:vertical;min-height:56px}
   .panneau-actions{display:flex;gap:10px;margin-top:18px}
   .panneau-actions .btn{flex:1;padding:13px 0;font-size:15px;text-align:center}
-  @media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
+  @media (prefers-reduced-motion:reduce){*{transition:none!important}}
 </style>
 </head>
 <body>
@@ -189,16 +185,17 @@
     <div class="compteur" id="compteur"></div>
   </header>
 
-  <div class="maj">
-    <div class="maj-titre">Concours du jour</div>
-    <div class="maj-info" id="derniere-maj">Jamais mis à jour</div>
-    <div id="bloc-cle" style="display:none;margin-top:10px">
-      <input id="f-cle" type="password" placeholder="Colle ta clé API Anthropic ici (sk-ant-…)"
-        style="width:100%;border:none;border-radius:8px;padding:10px 12px;font-family:'Archivo Narrow',sans-serif;font-size:13px">
-      <div class="maj-info" style="margin-top:5px">Clé gardée uniquement sur ton appareil. À créer sur console.anthropic.com</div>
+  <div class="sources">
+    <div class="sources-titre">Sources du jour</div>
+    <div class="sources-info">Ces sites recensent chaque jour les concours gratuits romands. Ouvre-les, repère les nouveaux concours, puis ajoute ceux qui t'intéressent à ta liste.</div>
+    <div class="grille-sources">
+      <a class="btn-source" data-source="concours" href="https://www.concours.ch/concours/tous" target="_blank" rel="noopener"><span>Concours.ch<small>Liste complète, sans compte</small></span><span class="fleche">↗</span></a>
+      <a class="btn-source" data-source="radin" href="https://radin.ch" target="_blank" rel="noopener"><span>Radin.ch<small>Concours + bons plans</small></span><span class="fleche">↗</span></a>
+      <a class="btn-source" data-source="win4win" href="https://win4win.ch/fr/concours/" target="_blank" rel="noopener"><span>Win4win<small>Concours suisses vérifiés</small></span><span class="fleche">↗</span></a>
+      <a class="btn-source" data-source="loisirs" href="https://www.loisirs.ch/concours/" target="_blank" rel="noopener"><span>Loisirs.ch<small>Sorties & billets romands</small></span><span class="fleche">↗</span></a>
+      <a class="btn-source" data-source="loro" href="https://loro.ch/fr/concours" target="_blank" rel="noopener"><span>Loterie Romande<small>Concours gratuits officiels</small></span><span class="fleche">↗</span></a>
     </div>
-    <button class="btn-maj" id="btn-maj">🔍 Chercher les nouveaux concours</button>
-    <div class="maj-etat" id="maj-etat"></div>
+    <div class="astuce">💡 <b>Astuce :</b> la liste de Concours.ch se consulte sans compte — l'inscription ne sert qu'à voir les réponses aux quiz. Les sources deviennent vertes une fois visitées aujourd'hui.</div>
   </div>
 
   <div class="onglets" role="tablist">
@@ -208,13 +205,9 @@
   </div>
 
   <div class="liste" id="liste"></div>
-  <div class="avertissement">
-    Les concours trouvés automatiquement viennent d'une recherche web :<br>
-    vérifie toujours les conditions sur la page du concours avant de participer.
-  </div>
 </div>
 
-<button class="flottant" id="btn-ajouter">+ Ajout manuel</button>
+<button class="flottant" id="btn-ajouter">+ Ajouter un concours</button>
 
 <div class="voile" id="voile">
   <div class="panneau" role="dialog" aria-label="Ajouter un concours">
@@ -227,7 +220,9 @@
       <input id="f-lien" type="url" placeholder="https://…"></div>
     <div class="champ"><label for="f-date">Date de fin</label>
       <input id="f-date" type="date"></div>
-    <div class="champ"><label for="f-notes">Notes</label>
+    <div class="champ"><label for="f-source">Source</label>
+      <input id="f-source" type="text" placeholder="Ex. Concours.ch"></div>
+    <div class="champ"><label for="f-notes">Notes (réponse au quiz, compte utilisé…)</label>
       <textarea id="f-notes"></textarea></div>
     <div class="panneau-actions">
       <button class="btn" id="btn-annuler">Annuler</button>
@@ -239,14 +234,11 @@
 <script>
 const CLE = 'concours-finder-v1';
 let concours = [];
-let derniereMaj = null;
 let filtre = 'afaire';
 let editionId = null;
 
-/* Détecte si l'app tourne dans Claude ou sur un site normal (GitHub Pages, etc.) */
+/* Fonctionne dans Claude (window.storage) comme sur GitHub Pages (localStorage) */
 const dansClaude = typeof window.storage !== 'undefined';
-
-/* ================= SAUVEGARDE (Claude ou navigateur) ================= */
 const stockage = {
   async get(k){
     if(dansClaude) return window.storage.get(k);
@@ -259,179 +251,42 @@ const stockage = {
   }
 };
 
+/* ================= SAUVEGARDE ================= */
 async function charger(){
   try{
     const r = await stockage.get(CLE);
     if(r && r.value){
       const d = JSON.parse(r.value);
       concours = d.concours || [];
-      derniereMaj = d.derniereMaj || null;
     }
-  }catch(e){ /* première ouverture : rien en mémoire */ }
-  initCleApi();
-  afficherMaj(); afficher();
+  }catch(e){ /* première ouverture */ }
+  marquerSourcesVisitees();
+  afficher();
 }
 async function sauver(){
-  try{
-    await stockage.set(CLE, JSON.stringify({concours, derniereMaj}));
-  }catch(e){ console.error('Sauvegarde impossible', e); }
+  try{ await stockage.set(CLE, JSON.stringify({concours})); }
+  catch(e){ console.error('Sauvegarde impossible', e); }
 }
 
-/* ================= CLÉ API (uniquement hors de Claude) ================= */
-function initCleApi(){
-  if(dansClaude) return; // dans Claude, pas besoin de clé
-  document.getElementById('bloc-cle').style.display = 'block';
-  const champ = document.getElementById('f-cle');
-  champ.value = localStorage.getItem('cle-api-anthropic') || '';
-  champ.addEventListener('change', () => {
-    localStorage.setItem('cle-api-anthropic', champ.value.trim());
+/* ================= SOURCES VISITÉES AUJOURD'HUI ================= */
+function aujourdhui(){ return new Date().toISOString().slice(0,10); }
+async function marquerSourcesVisitees(){
+  let visites = {};
+  try{
+    const r = await stockage.get('sources-visitees');
+    if(r && r.value) visites = JSON.parse(r.value);
+  }catch(e){}
+  document.querySelectorAll('.btn-source').forEach(a => {
+    if(visites[a.dataset.source] === aujourdhui()) a.classList.add('visite');
+    a.addEventListener('click', async () => {
+      visites[a.dataset.source] = aujourdhui();
+      a.classList.add('visite');
+      try{ await stockage.set('sources-visitees', JSON.stringify(visites)); }catch(e){}
+    });
   });
 }
 
-/* ================= RECHERCHE AUTOMATIQUE ================= */
-const btnMaj = document.getElementById('btn-maj');
-const etat = document.getElementById('maj-etat');
-
-function afficherMaj(){
-  const el = document.getElementById('derniere-maj');
-  if(!derniereMaj){ el.textContent = 'Jamais mis à jour'; return; }
-  const d = new Date(derniereMaj);
-  el.textContent = 'Dernière mise à jour : ' + d.toLocaleDateString('fr-CH') + ' à ' +
-    d.toLocaleTimeString('fr-CH',{hour:'2-digit',minute:'2-digit'});
-}
-function setEtat(txt, classe){
-  etat.textContent = txt;
-  etat.className = 'maj-etat visible ' + (classe || '');
-}
-
-btnMaj.onclick = async () => {
-  /* Hors de Claude, une clé API personnelle est nécessaire */
-  let cle = null;
-  if(!dansClaude){
-    cle = (localStorage.getItem('cle-api-anthropic') || '').trim();
-    if(!cle){
-      setEtat('Il manque ta clé API : colle-la dans le champ ci-dessus (à créer gratuitement sur console.anthropic.com, rubrique API Keys).','erreur');
-      document.getElementById('f-cle').focus();
-      return;
-    }
-  }
-
-  btnMaj.disabled = true;
-  btnMaj.textContent = 'Recherche en cours…';
-  setEtat('Recherche sur le web des concours suisses en cours (20 à 60 secondes)…','chargement');
-
-  const aujourdhui = new Date().toISOString().slice(0,10);
-  const dejaConnus = concours.slice(-40).map(c => c.titre).join(' | ');
-
-  const prompt =
-`Nous sommes le ${aujourdhui}. Cherche sur le web les jeux-concours GRATUITS actuellement ouverts en Suisse romande (sites comme concours.ch, coutzero.ch, radin.ch, win4win.ch, suisse-gratuite.ch, ou concours de marques suisses : Migros, Coop, radios romandes, etc.).
-
-Critères : participation gratuite, ouverte aux résidents suisses, concours encore actif aujourd'hui.
-Ignore les concours déjà connus dont voici les titres : ${dejaConnus || '(aucun)'}
-
-Réponds UNIQUEMENT avec un tableau JSON valide, sans aucun texte avant ou après, sans balises markdown. Maximum 8 concours. Format exact :
-[{"titre":"...","lot":"...","dateFin":"YYYY-MM-DD ou null","lien":"URL directe de la page du concours","source":"nom du site"}]
-Si une date de fin est inconnue, mets null. N'invente JAMAIS de lien : utilise uniquement des URL vues dans les résultats de recherche.`;
-
-  try{
-    const entetes = {"Content-Type":"application/json"};
-    if(cle){
-      entetes["x-api-key"] = cle;
-      entetes["anthropic-version"] = "2023-06-01";
-      entetes["anthropic-dangerous-direct-browser-access"] = "true";
-    }
-    const reponse = await fetch("https://api.anthropic.com/v1/messages", {
-      method:"POST",
-      headers:entetes,
-      body:JSON.stringify({
-        model:"claude-sonnet-4-6",
-        max_tokens:1000,
-        messages:[{role:"user",content:prompt}],
-        tools:[{type:"web_search_20250305",name:"web_search"}]
-      })
-    });
-    const data = await reponse.json();
-    if(data.error) throw new Error(data.error.message || 'Erreur API');
-
-    const texte = (data.content || [])
-      .filter(b => b.type === "text")
-      .map(b => b.text).join("\n");
-
-    const trouves = extraireJSON(texte);
-    if(!trouves || !trouves.length){
-      setEtat('Aucun nouveau concours trouvé cette fois. Réessaie plus tard.','');
-    } else {
-      const ajoutes = integrer(trouves);
-      derniereMaj = new Date().toISOString();
-      await sauver();
-      afficherMaj(); afficher();
-      setEtat(ajoutes > 0
-        ? '✓ ' + ajoutes + ' nouveau' + (ajoutes>1?'x':'') + ' concours ajouté' + (ajoutes>1?'s':'')
-        : 'Rien de nouveau : tous les concours trouvés sont déjà dans ta liste.','ok');
-    }
-  }catch(e){
-    console.error(e);
-    setEtat('La recherche a échoué (' + (e.message || 'erreur réseau') + '). Réessaie dans un instant.','erreur');
-  }
-  btnMaj.disabled = false;
-  btnMaj.textContent = '🔍 Chercher les nouveaux concours';
-};
-
-function extraireJSON(texte){
-  if(!texte) return null;
-  const propre = texte.replace(/```json|```/g,'').trim();
-  const debut = propre.indexOf('['), fin = propre.lastIndexOf(']');
-  if(debut === -1 || fin === -1) return null;
-  try{ return JSON.parse(propre.slice(debut, fin+1)); }
-  catch(e){ return null; }
-}
-
-/* Anti-doublons : URL normalisée ou titre très proche */
-function normaliserUrl(u){
-  if(!u) return '';
-  try{
-    const url = new URL(u);
-    return (url.hostname.replace(/^www\./,'') + url.pathname).replace(/\/$/,'').toLowerCase();
-  }catch(e){ return u.toLowerCase(); }
-}
-function normaliserTitre(t){
-  return (t||'').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'')
-    .replace(/[^a-z0-9 ]/g,'').replace(/\s+/g,' ').trim();
-}
-function estDoublon(nouveau){
-  const nu = normaliserUrl(nouveau.lien);
-  const nt = normaliserTitre(nouveau.titre);
-  return concours.some(c => {
-    if(nu && normaliserUrl(c.lien) === nu) return true;
-    const ct = normaliserTitre(c.titre);
-    if(!nt || !ct) return false;
-    return ct === nt || ct.includes(nt) || nt.includes(ct);
-  });
-}
-function integrer(trouves){
-  let n = 0;
-  const aujourdhui = new Date().toISOString().slice(0,10);
-  for(const t of trouves){
-    if(!t || !t.titre) continue;
-    if(estDoublon(t)) continue;
-    // ignorer les concours déjà expirés
-    if(t.dateFin && t.dateFin !== 'null' && t.dateFin < aujourdhui) continue;
-    concours.push({
-      id:'c' + Date.now() + Math.floor(Math.random()*1000),
-      titre:String(t.titre).slice(0,140),
-      lot:t.lot ? String(t.lot).slice(0,140) : '',
-      lien:t.lien && String(t.lien).startsWith('http') ? t.lien : '',
-      dateFin:(t.dateFin && /^\d{4}-\d{2}-\d{2}$/.test(t.dateFin)) ? t.dateFin : '',
-      source:t.source ? String(t.source).slice(0,40) : 'Recherche web',
-      notes:'', statut:'afaire',
-      ajoute:new Date().toISOString(), auto:true
-    });
-    n++;
-  }
-  return n;
-}
-
-/* ================= AFFICHAGE ================= */
+/* ================= DATES ================= */
 function joursRestants(dateFin){
   if(!dateFin) return null;
   const fin = new Date(dateFin + 'T23:59:59');
@@ -452,10 +307,8 @@ function formatDate(d){
   if(!d) return '';
   const p = d.split('-'); return p[2] + '.' + p[1] + '.' + p[0];
 }
-function ajouteAujourdhui(c){
-  return c.ajoute && c.ajoute.slice(0,10) === new Date().toISOString().slice(0,10);
-}
 
+/* ================= AFFICHAGE ================= */
 function afficher(){
   const liste = document.getElementById('liste');
   const actifs = concours.filter(c => c.statut === 'afaire' && (joursRestants(c.dateFin) === null || joursRestants(c.dateFin) >= 0));
@@ -481,7 +334,7 @@ function afficher(){
   if(visibles.length === 0){
     liste.innerHTML = '<div class="vide"><div class="gros">🎟️</div><p>' +
       (filtre === 'fait' ? 'Aucun concours fait pour l\'instant.' :
-       'Liste vide.<br>Appuie sur « Chercher les nouveaux concours » pour la remplir automatiquement.') + '</p></div>';
+       'Liste vide.<br>Ouvre une source ci-dessus, trouve un concours,<br>puis ajoute-le avec le bouton rouge.') + '</p></div>';
     return;
   }
 
@@ -494,10 +347,7 @@ function afficher(){
         '<div class="titre">' + echap(c.titre) + '</div>' +
         (c.lot ? '<div class="lot">🎁 ' + echap(c.lot) + '</div>' : '') +
         (c.dateFin ? '<div class="lot">Fin : ' + formatDate(c.dateFin) + '</div>' : '') +
-        '<div>' +
-          (ajouteAujourdhui(c) && c.auto ? '<span class="etiquette-nouveau">Nouveau</span>' : '') +
-          (c.source ? '<span class="etiquette-source">' + echap(c.source) + '</span>' : '') +
-        '</div>' +
+        (c.source ? '<div><span class="etiquette-source">' + echap(c.source) + '</span></div>' : '') +
       '</div>' + badgeEcheance(c) + '</div>' +
       (c.notes ? '<div class="notes">' + echap(c.notes) + '</div>' : '') +
       '<div class="actions">' +
@@ -533,17 +383,18 @@ window.modifier = function(id){
   document.getElementById('f-lot').value = c.lot || '';
   document.getElementById('f-lien').value = c.lien || '';
   document.getElementById('f-date').value = c.dateFin || '';
+  document.getElementById('f-source').value = c.source || '';
   document.getElementById('f-notes').value = c.notes || '';
   ouvrirPanneau();
 };
 
-/* ================= FORMULAIRE MANUEL ================= */
+/* ================= FORMULAIRE ================= */
 const voile = document.getElementById('voile');
 function ouvrirPanneau(){ voile.classList.add('ouvert'); setTimeout(() => document.getElementById('f-titre').focus(), 50); }
 function fermerPanneau(){
   voile.classList.remove('ouvert'); editionId = null;
   document.getElementById('titre-panneau').textContent = 'Nouveau concours';
-  ['f-titre','f-lot','f-lien','f-date','f-notes'].forEach(id => document.getElementById(id).value = '');
+  ['f-titre','f-lot','f-lien','f-date','f-source','f-notes'].forEach(id => document.getElementById(id).value = '');
 }
 document.getElementById('btn-ajouter').onclick = ouvrirPanneau;
 document.getElementById('btn-annuler').onclick = fermerPanneau;
@@ -557,12 +408,13 @@ document.getElementById('btn-enregistrer').onclick = () => {
     lot: document.getElementById('f-lot').value.trim(),
     lien: document.getElementById('f-lien').value.trim(),
     dateFin: document.getElementById('f-date').value,
+    source: document.getElementById('f-source').value.trim(),
     notes: document.getElementById('f-notes').value.trim(),
   };
   if(editionId){
     Object.assign(concours.find(x => x.id === editionId), donnees);
   } else {
-    concours.push({ id:'c'+Date.now(), statut:'afaire', source:'Ajout manuel', ajoute:new Date().toISOString(), ...donnees });
+    concours.push({ id:'c'+Date.now(), statut:'afaire', ajoute:new Date().toISOString(), ...donnees });
   }
   sauver(); fermerPanneau(); afficher();
 };
