@@ -1,0 +1,36 @@
+name: Mise à jour des concours
+ 
+on:
+  schedule:
+    # Tous les jours à 4h00 UTC (6h00 en Suisse l'été, 5h00 l'hiver)
+    - cron: "0 4 * * *"
+  workflow_dispatch: {}   # permet aussi de lancer à la main depuis l'onglet Actions
+ 
+permissions:
+  contents: write
+ 
+jobs:
+  collecte:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v4
+ 
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+ 
+      - name: Installer les dépendances
+        run: pip install requests feedparser beautifulsoup4
+ 
+      - name: Lancer le robot de collecte
+        run: python scraper.py
+ 
+      - name: Publier concours.json
+        run: |
+          git config user.name "robot-concours"
+          git config user.email "robot@users.noreply.github.com"
+          git add concours.json
+          git diff --cached --quiet || git commit -m "Mise à jour automatique des concours"
+          git push
