@@ -69,6 +69,33 @@
     margin-top:12px;line-height:1.45;
   }
   .astuce b{color:#fff}
+  .btn-recharger{
+    margin-top:12px;width:100%;background:var(--rouge);color:#fff;
+    border:none;border-radius:10px;padding:13px 0;
+    font-family:'Archivo',sans-serif;font-weight:900;font-size:15px;
+    cursor:pointer;transition:transform .1s ease;
+  }
+  .btn-recharger:active{transform:scale(.97)}
+  .btn-recharger:disabled{background:#5a5b60;cursor:wait}
+  .btn-recharger:focus-visible{outline:2px solid #fff;outline-offset:2px}
+  .etat-import{
+    font-family:'Archivo Narrow',sans-serif;font-size:13px;margin-top:9px;
+    color:#B9BBC1;line-height:1.4;
+  }
+  .etat-import.ok{color:#7BD9A2}
+  .etat-import.erreur{color:#FF8A8A}
+  .autres-sources{margin-top:12px}
+  .autres-sources summary{
+    font-family:'Archivo Narrow',sans-serif;font-size:13px;color:#B9BBC1;
+    cursor:pointer;
+  }
+  .autres-sources .grille-sources{margin-top:10px}
+  .etiquette-nouveau{
+    display:inline-block;font-family:'Archivo Narrow',sans-serif;font-size:11.5px;
+    font-weight:600;letter-spacing:.06em;text-transform:uppercase;
+    color:#fff;background:var(--vert);border-radius:5px;
+    padding:2px 7px;margin-top:8px;margin-right:6px;
+  }
 
   /* ------- onglets ------- */
   .onglets{display:flex;gap:6px;margin:16px 0 14px}
@@ -186,16 +213,17 @@
   </header>
 
   <div class="sources">
-    <div class="sources-titre">Sources du jour</div>
-    <div class="sources-info">Ces sites recensent chaque jour les concours gratuits romands. Ouvre-les, repère les nouveaux concours, puis ajoute ceux qui t'intéressent à ta liste.</div>
-    <div class="grille-sources">
-      <a class="btn-source" data-source="concours" href="https://www.concours.ch/concours/tous" target="_blank" rel="noopener"><span>Concours.ch<small>Liste complète, sans compte</small></span><span class="fleche">↗</span></a>
-      <a class="btn-source" data-source="radin" href="https://radin.ch" target="_blank" rel="noopener"><span>Radin.ch<small>Concours + bons plans</small></span><span class="fleche">↗</span></a>
-      <a class="btn-source" data-source="win4win" href="https://win4win.ch/fr/concours/" target="_blank" rel="noopener"><span>Win4win<small>Concours suisses vérifiés</small></span><span class="fleche">↗</span></a>
-      <a class="btn-source" data-source="loisirs" href="https://www.loisirs.ch/concours/" target="_blank" rel="noopener"><span>Loisirs.ch<small>Sorties & billets romands</small></span><span class="fleche">↗</span></a>
-      <a class="btn-source" data-source="loro" href="https://loro.ch/fr/concours" target="_blank" rel="noopener"><span>Loterie Romande<small>Concours gratuits officiels</small></span><span class="fleche">↗</span></a>
-    </div>
-    <div class="astuce">💡 <b>Astuce :</b> la liste de Concours.ch se consulte sans compte — l'inscription ne sert qu'à voir les réponses aux quiz. Les sources deviennent vertes une fois visitées aujourd'hui.</div>
+    <div class="sources-titre">Concours du jour</div>
+    <div class="sources-info">Remplis automatiquement chaque matin depuis Concours.ch, Radin.ch et Win4win. Les nouveaux concours arrivent directement dans « À faire ».</div>
+    <button class="btn-recharger" id="btn-recharger">🔄 Recharger les concours</button>
+    <div class="etat-import" id="etat-import"></div>
+    <details class="autres-sources">
+      <summary>Autres sources à consulter à la main</summary>
+      <div class="grille-sources">
+        <a class="btn-source" data-source="loisirs" href="https://www.loisirs.ch/concours/" target="_blank" rel="noopener"><span>Loisirs.ch<small>Sorties & billets romands</small></span><span class="fleche">↗</span></a>
+        <a class="btn-source" data-source="loro" href="https://loro.ch/fr/concours" target="_blank" rel="noopener"><span>Loterie Romande<small>Concours gratuits officiels</small></span><span class="fleche">↗</span></a>
+      </div>
+    </details>
   </div>
 
   <div class="onglets" role="tablist">
@@ -262,7 +290,74 @@ async function charger(){
   }catch(e){ /* première ouverture */ }
   marquerSourcesVisitees();
   afficher();
+  importerAuto(); // récupère les concours collectés par le robot
 }
+
+/* ================= IMPORT AUTOMATIQUE (concours.json) ================= */
+function normaliserLien(u){
+  return (u||'').toLowerCase().split('?')[0].replace(/\/$/,'')
+    .replace('https://','').replace('http://','').replace('www.','');
+}
+const etatImport = () => document.getElementById('etat-import');
+function setImport(txt, classe){
+  etatImport().textContent = txt;
+  etatImport().className = 'etat-import ' + (classe||'');
+}
+
+async function importerAuto(){
+  const btn = document.getElementById('btn-recharger');
+  btn.disabled = true;
+  setImport('Chargement des concours…','');
+  try{
+    const rep = await fetch('concours.json?v=' + Date.now(), {cache:'no-store'});
+    if(!rep.ok) throw new Error('fichier introuvable');
+    const d = await rep.json();
+    const items = d.concours || [];
+
+    /* liens déjà importés un jour (pour ne pas faire revenir ce que tu as supprimé/ignoré) */
+    let connus = new Set();
+    try{
+      const r = await stockage.get('liens-connus');
+      if(r && r.value) connus = new Set(JSON.parse(r.value));
+    }catch(e){}
+    concours.forEach(c => { const k = normaliserLien(c.lien); if(k) connus.add(k); });
+
+    const auj = aujourdhui();
+    let n = 0;
+    for(const t of items){
+      if(!t || !t.titre || !t.lien) continue;
+      const k = normaliserLien(t.lien);
+      if(!k || connus.has(k)) continue;
+      if(t.dateFin && t.dateFin < auj){ connus.add(k); continue; }
+      concours.push({
+        id:'c' + Date.now() + Math.floor(Math.random()*10000),
+        titre:String(t.titre).slice(0,140),
+        lot:t.lot ? String(t.lot).slice(0,140) : '',
+        lien:String(t.lien).startsWith('http') ? t.lien : '',
+        dateFin:(t.dateFin && /^\d{4}-\d{2}-\d{2}$/.test(t.dateFin)) ? t.dateFin : '',
+        source:t.source || 'Import auto',
+        notes:'', statut:'afaire',
+        ajoute:new Date().toISOString(), auto:true
+      });
+      connus.add(k); n++;
+    }
+    try{ await stockage.set('liens-connus', JSON.stringify([...connus])); }catch(e){}
+    if(n > 0) await sauver();
+    afficher();
+
+    const quand = d.maj ? new Date(d.maj).toLocaleDateString('fr-CH') + ' ' +
+      new Date(d.maj).toLocaleTimeString('fr-CH',{hour:'2-digit',minute:'2-digit'}) : '?';
+    setImport((n > 0 ? '✓ ' + n + ' nouveau' + (n>1?'x':'') + ' concours importé' + (n>1?'s':'') + '. '
+                     : 'Rien de nouveau depuis la dernière fois. ') +
+              'Dernière collecte du robot : ' + quand +
+              (d.erreurs && d.erreurs.length ? ' (source en panne : ' + d.erreurs.join(', ') + ')' : ''),
+              n > 0 ? 'ok' : '');
+  }catch(e){
+    setImport('Pas encore de concours collectés : lance une première fois le robot dans l\'onglet Actions de GitHub (voir instructions).','erreur');
+  }
+  btn.disabled = false;
+}
+
 async function sauver(){
   try{ await stockage.set(CLE, JSON.stringify({concours})); }
   catch(e){ console.error('Sauvegarde impossible', e); }
@@ -347,7 +442,10 @@ function afficher(){
         '<div class="titre">' + echap(c.titre) + '</div>' +
         (c.lot ? '<div class="lot">🎁 ' + echap(c.lot) + '</div>' : '') +
         (c.dateFin ? '<div class="lot">Fin : ' + formatDate(c.dateFin) + '</div>' : '') +
-        (c.source ? '<div><span class="etiquette-source">' + echap(c.source) + '</span></div>' : '') +
+        '<div>' +
+          (c.auto && c.ajoute && c.ajoute.slice(0,10) === aujourdhui() ? '<span class="etiquette-nouveau">Nouveau</span>' : '') +
+          (c.source ? '<span class="etiquette-source">' + echap(c.source) + '</span>' : '') +
+        '</div>' +
       '</div>' + badgeEcheance(c) + '</div>' +
       (c.notes ? '<div class="notes">' + echap(c.notes) + '</div>' : '') +
       '<div class="actions">' +
@@ -428,6 +526,8 @@ document.querySelectorAll('.onglet').forEach(b => {
     afficher();
   };
 });
+
+document.getElementById('btn-recharger').onclick = importerAuto;
 
 charger();
 </script>
