@@ -1,9 +1,23 @@
 {
- "maj": "2026-07-15T06:15",
+ "maj": "2026-07-16T06:19",
  "erreurs": [
   "Concours.ch"
  ],
  "concours": [
+  {
+   "titre": "Landi – Gagnez une carte cadeau LANDI d’une valeur de CHF 100.–",
+   "lot": "",
+   "lien": "https://radin.ch/landi-gagnez-une-carte-cadeau-landi-dune-valeur-de-chf-100/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Migros Magazine, Mots fléchés – Gagnez 2 cartes cadeaux Migros d’une valeur de 100 francs chacune",
+   "lot": "",
+   "lien": "https://radin.ch/migros-magazine-mots-fleches-gagnez-2-cartes-cadeaux-migros-dune-valeur-de-100-francs-chacune-29/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
   {
    "titre": "Cashyou – Gagnez un iPhone 17 Pro",
    "lot": "",
@@ -57,20 +71,6 @@
    "titre": "Aldi Suisse Tours – Gagnez une escapade bien-être pour deux",
    "lot": "",
    "lien": "https://radin.ch/aldi-suisse-tours-gagnez-une-escapade-bien-etre-pour-deux/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Lidl – Gagnez des vacances de rêve en Turquie cet été",
-   "lot": "",
-   "lien": "https://radin.ch/lidl-gagnez-des-vacances-de-reve-en-turquie-cet-ete-2/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Lidl – Gagnez des vacances de rêve en Turquie cet été",
-   "lot": "",
-   "lien": "https://radin.ch/lidl-gagnez-des-vacances-de-reve-en-turquie-cet-ete/",
    "dateFin": null,
    "source": "Radin.ch"
   },
