@@ -1,9 +1,16 @@
 {
- "maj": "2026-07-17T06:16",
+ "maj": "2026-07-18T06:05",
  "erreurs": [
   "Concours.ch"
  ],
  "concours": [
+  {
+   "titre": "Mövenpick Vin –  Gagnez 3 bons d’achat de vin Mövenpick d’une valeur de CHF 500.- chacun",
+   "lot": "",
+   "lien": "https://radin.ch/movenpick-vin-3-bons-dachat-de-vin-movenpick-dune-valeur-de-chf-500-chacun/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
   {
    "titre": "Foodlovers – Gagnez un Paddle Aqua Marina et un panier gourmand Nestlé",
    "lot": "",
@@ -64,13 +71,6 @@
    "titre": "CarPostal – Gagnez vos cartes journalières CarPostal",
    "lot": "",
    "lien": "https://radin.ch/carpostal-gagnez-vos-cartes-journalieres-carpostal/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Kenwood – Gagnez le robot de cuisine kMix Swiss Edition",
-   "lot": "",
-   "lien": "https://radin.ch/kenwood-gagnez-le-robot-de-cuisine-kmix-swiss-edition/",
    "dateFin": null,
    "source": "Radin.ch"
   },
