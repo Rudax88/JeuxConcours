@@ -1,9 +1,16 @@
 {
- "maj": "2026-07-22T06:28",
+ "maj": "2026-07-23T06:30",
  "erreurs": [
   "Concours.ch"
  ],
  "concours": [
+  {
+   "titre": "Migros Magazine, Mots fléchés – Gagnez 2 cartes cadeaux Migros d’une valeur de 100 francs chacune",
+   "lot": "",
+   "lien": "https://radin.ch/migros-magazine-mots-fleches-gagnez-2-cartes-cadeaux-migros-dune-valeur-de-100-francs-chacune-30/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
   {
    "titre": "Interdiscount – Gagnez un barbecue à gaz sphérique OUTDOORCHEF",
    "lot": "",
@@ -64,13 +71,6 @@
    "titre": "Mcdonald’s – Gagnez un voyage en famille au Marvel Avengers Campus d’une valeur totale de CHF 4 000",
    "lot": "",
    "lien": "https://radin.ch/mcdonalds-gagnez-un-voyage-en-famille-au-marvel-avengers-campus-dune-valeur-totale-de-chf-4-000/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Mövenpick Vin –  Gagnez 3 bons d’achat de vin Mövenpick d’une valeur de CHF 500.- chacun",
-   "lot": "",
-   "lien": "https://radin.ch/movenpick-vin-3-bons-dachat-de-vin-movenpick-dune-valeur-de-chf-500-chacun/",
    "dateFin": null,
    "source": "Radin.ch"
   },
