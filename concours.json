@@ -1,9 +1,30 @@
 {
- "maj": "2026-07-23T06:30",
+ "maj": "2026-07-24T06:26",
  "erreurs": [
   "Concours.ch"
  ],
  "concours": [
+  {
+   "titre": "Migros Online – Gagnez l’un des 800 bons Cumulus",
+   "lot": "",
+   "lien": "https://radin.ch/migros-online-gagnez-lun-des-800-bons-cumulus/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Caotina – Gagnez 1 des 20 coffrets Caotina chocolat",
+   "lot": "",
+   "lien": "https://radin.ch/caotina-gagnez-1-des-20-coffret-caotina-chocolat/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Coop – Gagnez l’une des 10 cartes cadeaux Coop d’une valeur de CHF 50.–",
+   "lot": "",
+   "lien": "https://radin.ch/coop-gagnez-lune-des-10-cartes-cadeaux-coop-dune-valeur-de-chf-50-3/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
   {
    "titre": "Migros Magazine, Mots fléchés – Gagnez 2 cartes cadeaux Migros d’une valeur de 100 francs chacune",
    "lot": "",
@@ -50,27 +71,6 @@
    "titre": "Coop Vino – Gagnez un séjour d’exception à Bordeaux pour 2 personnes",
    "lot": "",
    "lien": "https://radin.ch/coop-vino-gagnez-un-sejour-dexception-a-bordeaux-pour-2-personnes/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Valiant – Gagnez 3  cartes cadeau Reka d’une valeur de 300 CHF chacune",
-   "lot": "",
-   "lien": "https://radin.ch/valiant-gagnez-3-cartes-cadeau-reka-dune-valeur-de-300-chf-chacune/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Paysans Suisses – 10 séjours et expériences au cœur de la nature suisse d’une valeur totale de 4000 CHF",
-   "lot": "",
-   "lien": "https://radin.ch/paysan-suisses-10-sejours-et-experiences-au-coeur-de-la-nature-suisse-dune-valeur-totale-de-4000-chf/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Mcdonald’s – Gagnez un voyage en famille au Marvel Avengers Campus d’une valeur totale de CHF 4 000",
-   "lot": "",
-   "lien": "https://radin.ch/mcdonalds-gagnez-un-voyage-en-famille-au-marvel-avengers-campus-dune-valeur-totale-de-chf-4-000/",
    "dateFin": null,
    "source": "Radin.ch"
   },
