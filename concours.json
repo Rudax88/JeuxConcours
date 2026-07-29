@@ -1,9 +1,23 @@
 {
- "maj": "2026-07-28T06:27",
+ "maj": "2026-07-29T06:31",
  "erreurs": [
   "Concours.ch"
  ],
  "concours": [
+  {
+   "titre": "Kkiosk et Avec – Gagnez vos glaces préférées avec AVEC et kkiosk",
+   "lot": "",
+   "lien": "https://radin.ch/kkiosk-et-avec-gagnez-vos-glaces-preferees-avec-avec-et-kkiosk/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "La Poste – Gagnez un bon de voyage CFF d’une valeur de CHF 1 000.−",
+   "lot": "",
+   "lien": "https://radin.ch/poste-gagnez-un-bon-de-voyage-cff-dune-valeur-de-chf-1-000-%e2%88%92/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
   {
    "titre": "Lidl Plus – Tentez de remporter un séjour au Movie Park ou votre sac Pat’ Patrouille",
    "lot": "",
@@ -57,20 +71,6 @@
    "titre": "Coopération, Mots fléchés – Gagnez 2 cartes cadeaux Coop de 250 CHF chacune",
    "lot": "",
    "lien": "https://radin.ch/cooperation-mots-fleches-gagnez-2-cartes-cadeaux-coop-de-250-chf-chacune-30/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Migros Online – Gagnez l’un des 800 bons Cumulus",
-   "lot": "",
-   "lien": "https://radin.ch/migros-online-gagnez-lun-des-800-bons-cumulus/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Caotina – Gagnez 1 des 20 coffrets Caotina chocolat",
-   "lot": "",
-   "lien": "https://radin.ch/caotina-gagnez-1-des-20-coffret-caotina-chocolat/",
    "dateFin": null,
    "source": "Radin.ch"
   },
