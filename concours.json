@@ -1,9 +1,23 @@
 {
- "maj": "2026-07-31T06:44",
+ "maj": "2026-08-01T06:29",
  "erreurs": [
   "Concours.ch"
  ],
  "concours": [
+  {
+   "titre": "Coop Pronto – Proposez un site pour Coop Pronto et touchez CHF 5’000.– en carte cadeau",
+   "lot": "",
+   "lien": "https://radin.ch/coop-pronto-proposez-un-site-pour-coop-pronto-et-touchez-chf-5000-en-carte-cadeau/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Micasa – Gagnez un coffret «Made in Switzerland»",
+   "lot": "",
+   "lien": "https://radin.ch/micasa-gagnez-un-coffret-made-in-switzerland/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
   {
    "titre": "Migros Online – Gagnez 10 bons d’achat Migros Online d’une valeur de 1000 CHF chacun",
    "lot": "",
@@ -57,20 +71,6 @@
    "titre": "Interdiscount – Gagnez votre projecteur XGIMI MoGo 3 Pro",
    "lot": "",
    "lien": "https://radin.ch/interdiscount-gagnez-votre-projecteur-xgimi-mogo-3-pro/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Migros Magazine, Mots fléchés – Gagnez 2 cartes cadeaux Migros d’une valeur de 100 francs chacune",
-   "lot": "",
-   "lien": "https://radin.ch/migros-magazine-mots-fleches-gagnez-2-cartes-cadeaux-migros-dune-valeur-de-100-francs-chacune-31/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Migros – Gagnez l’un des deux vols en montgolfière Migros Bio pour max 8 personnes",
-   "lot": "",
-   "lien": "https://radin.ch/migros-gagnez-lun-des-deux-vols-en-montgolfiere-migros-bio-pour-max-8-personnes/",
    "dateFin": null,
    "source": "Radin.ch"
   },
