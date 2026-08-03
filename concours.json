@@ -1,5 +1,5 @@
 {
- "maj": "2026-08-02T06:33",
+ "maj": "2026-08-03T07:27",
  "erreurs": [
   "Concours.ch"
  ],
@@ -75,6 +75,13 @@
    "source": "Radin.ch"
   },
   {
+   "titre": "Performance Marketing en B2C : quand les résultats comptent plus que le feeling",
+   "lot": "",
+   "lien": "https://win4win.ch/fr/performance-marketing-b2c/",
+   "dateFin": null,
+   "source": "Win4win"
+  },
+  {
    "titre": "Concours Salt – Gagne une Xbox Series X d’une valeur de CHF 559.–",
    "lot": "",
    "lien": "https://win4win.ch/fr/concours-salt-xbox/",
@@ -113,13 +120,6 @@
    "titre": "Concours Chicorée – Gagnez 1 des 5 bons d’achat de CHF 100.–",
    "lot": "",
    "lien": "https://win4win.ch/fr/concours-chicoree-blogconcours/",
-   "dateFin": null,
-   "source": "Win4win"
-  },
-  {
-   "titre": "Concours Drogi – Gagnez 1 des 10 bons d’achat de CHF 100.–",
-   "lot": "",
-   "lien": "https://win4win.ch/fr/concours-drogi-2/",
    "dateFin": null,
    "source": "Win4win"
   }
