@@ -1,9 +1,30 @@
 {
- "maj": "2026-08-04T06:28",
+ "maj": "2026-08-05T06:28",
  "erreurs": [
   "Concours.ch"
  ],
  "concours": [
+  {
+   "titre": "Cailler – Gagnez 4 bouées et 3 paddles Cailler",
+   "lot": "",
+   "lien": "https://radin.ch/cailler-gagnez-4-bouees-et-3-paddles-cailler/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Zweifel – Gagnez un scooter électrique exclusif signé Kito ou l’un des 10 bons Zweifel d’une valeur de CHF 50.– chacun",
+   "lot": "",
+   "lien": "https://radin.ch/zweifel-gagnez-un-scooter-electrique-exclusif-signe-kito-ou-lun-des-10-bons-zweifel-dune-valeur-de-chf-50-chacun/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Hugo Reitzel – Gagnez  un bon de 100 CHF à faire valoir dans le HUGO Shop",
+   "lot": "",
+   "lien": "https://radin.ch/hugo-reitzel-gagnez-un-bon-de-100-chf-a-faire-valoir-dans-le-hugo-shop/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
   {
    "titre": "Lidl « Mon avis »– Gagnez 20 bons d’achat d’une valeur de 20 CHF chacun",
    "lot": "",
@@ -50,27 +71,6 @@
    "titre": "Victorinox – Partagez votre meilleur souvenir d’été et tentez de gagner jusqu’à 500 CHF",
    "lot": "",
    "lien": "https://radin.ch/victorinox-partagez-votre-meilleur-souvenir-dete-et-tentez-de-gagner-jusqua-500-chf/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Gruyère AOP – Gagnez un gâteau d’anniversaire en trompe-l’œil, en forme de meule de Gruyère AO",
-   "lot": "",
-   "lien": "https://radin.ch/gruyere-aop-gagnez-un-gateau-danniversaire-en-trompe-loeil-en-forme-de-meule-de-gruyere-ao/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Coop Pronto – Proposez un site pour Coop Pronto et touchez CHF 5’000.– en carte cadeau",
-   "lot": "",
-   "lien": "https://radin.ch/coop-pronto-proposez-un-site-pour-coop-pronto-et-touchez-chf-5000-en-carte-cadeau/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Micasa – Gagnez un coffret «Made in Switzerland»",
-   "lot": "",
-   "lien": "https://radin.ch/micasa-gagnez-un-coffret-made-in-switzerland/",
    "dateFin": null,
    "source": "Radin.ch"
   },
