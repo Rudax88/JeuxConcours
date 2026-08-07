@@ -1,9 +1,44 @@
 {
- "maj": "2026-08-06T06:31",
+ "maj": "2026-08-07T05:40",
  "erreurs": [
   "Concours.ch"
  ],
  "concours": [
+  {
+   "titre": "Famigros – Gagnez l’une des 10 Tonieboxes 2 de couleur vert océan avec housse Mimigs",
+   "lot": "",
+   "lien": "https://radin.ch/famigros-gagnez-lune-des-10-tonieboxes-2-de-couleur-vert-ocean-avec-housse-mimigs/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Coopération, Mots fléchés – Gagnez 2 cartes cadeaux Coop de 250 CHF chacune",
+   "lot": "",
+   "lien": "https://radin.ch/cooperation-mots-fleches-gagnez-2-cartes-cadeaux-coop-de-250-chf-chacune-31/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Coopération –  Gagnez l’un des 10 bons pour des vacances Reka d’une valeur de 999 CHF chacun",
+   "lot": "",
+   "lien": "https://radin.ch/cooperation-gagnez-lun-des-10-bons-pour-des-vacances-reka-dune-valeur-de-999-chf-chacun/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Mondovino – Gagnez des grands crus de Bordeaux",
+   "lot": "",
+   "lien": "https://radin.ch/mondovino-gagnez-des-grands-crus-de-bordeaux/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "RAMSEIER – Gagnez l’une des 5 nuitées d’une valeur de CHF 300.-",
+   "lot": "",
+   "lien": "https://radin.ch/ramseier-gagnez-lune-des-5-nuitees-dune-valeur-de-chf-300/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
   {
    "titre": "Denner – Gagnez 2 minutes de rush gratuit chez Denner",
    "lot": "",
@@ -36,41 +71,6 @@
    "titre": "Cailler – Gagnez 4 bouées et 3 paddles Cailler",
    "lot": "",
    "lien": "https://radin.ch/cailler-gagnez-4-bouees-et-3-paddles-cailler/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Zweifel – Gagnez un scooter électrique exclusif signé Kito ou l’un des 10 bons Zweifel d’une valeur de CHF 50.– chacun",
-   "lot": "",
-   "lien": "https://radin.ch/zweifel-gagnez-un-scooter-electrique-exclusif-signe-kito-ou-lun-des-10-bons-zweifel-dune-valeur-de-chf-50-chacun/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Hugo Reitzel – Gagnez  un bon de 100 CHF à faire valoir dans le HUGO Shop",
-   "lot": "",
-   "lien": "https://radin.ch/hugo-reitzel-gagnez-un-bon-de-100-chf-a-faire-valoir-dans-le-hugo-shop/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Lidl « Mon avis »– Gagnez 20 bons d’achat d’une valeur de 20 CHF chacun",
-   "lot": "",
-   "lien": "https://radin.ch/lidl-mon-avis-gagnez-20-bons-dachat-dune-valeur-de-20-chf-chacun/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Dr Oetker – Gagnez l’une des 10 boîtes remplies meilleurs produits Dr. Oetker",
-   "lot": "",
-   "lien": "https://radin.ch/dr-oetker-gagnez-lune-des-10-boites-remplies-meilleurs-produits-dr-oetker/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "CarPostal – Gagnez vos cartes journalières CarPostal",
-   "lot": "",
-   "lien": "https://radin.ch/carpostal-gagnez-vos-cartes-journalieres-carpostal-2/",
    "dateFin": null,
    "source": "Radin.ch"
   },
