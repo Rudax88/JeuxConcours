@@ -1,9 +1,30 @@
 {
- "maj": "2026-08-10T05:27",
+ "maj": "2026-08-11T05:08",
  "erreurs": [
   "Concours.ch"
  ],
  "concours": [
+  {
+   "titre": "Gruyère AOP – Gagnez une glacière avec 1kg de Gruyère AOP",
+   "lot": "",
+   "lien": "https://radin.ch/gruyere-aop-gagnez-une-glaciere-avec-1kg-de-gruyere-aop/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Rivella – Gagnez une expérience festival ultime d’une valeur de CHF 4000.– et beaucoup d’autres prix",
+   "lot": "",
+   "lien": "https://radin.ch/rivella-gagnez-une-experience-festival-ultime-dune-valeur-de-chf-4000-et-beaucoup-dautres-prix/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Foodlovers – Gagnez le kit parfait pour la rentrée d’une valeur de CHF 350.–",
+   "lot": "",
+   "lien": "https://radin.ch/foodlovers-gagnez-le-kit-parfait-pour-la-rentree-dune-valeur-de-chf-350/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
   {
    "titre": "Famigros – Gagnez l’une des 10 Tonieboxes 2 de couleur vert océan avec housse Mimigs",
    "lot": "",
@@ -50,27 +71,6 @@
    "titre": "Interdiscount – Gagnez le robot aspirateur MOVA Z70",
    "lot": "",
    "lien": "https://radin.ch/interdiscount-gagnez-le-robot-aspirateur-mova-z70-2/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Interdiscount – Gagnez le robot aspirateur MOVA Z70",
-   "lot": "",
-   "lien": "https://radin.ch/interdiscount-gagnez-le-robot-aspirateur-mova-z70/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Migros Magazine, Mots fléchés – Gagnez 2 cartes cadeaux Migros d’une valeur de 100 francs chacune",
-   "lot": "",
-   "lien": "https://radin.ch/migros-magazine-mots-fleches-gagnez-2-cartes-cadeaux-migros-dune-valeur-de-100-francs-chacune-32/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Cailler – Gagnez 4 bouées et 3 paddles Cailler",
-   "lot": "",
-   "lien": "https://radin.ch/cailler-gagnez-4-bouees-et-3-paddles-cailler/",
    "dateFin": null,
    "source": "Radin.ch"
   },
