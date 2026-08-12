@@ -1,9 +1,30 @@
 {
- "maj": "2026-08-11T05:08",
+ "maj": "2026-08-12T05:37",
  "erreurs": [
   "Concours.ch"
  ],
  "concours": [
+  {
+   "titre": "Relais du Vin –  Gagnez 2 jours d’évasion romantique pour 2 en Europe",
+   "lot": "",
+   "lien": "https://radin.ch/relais-du-vin-gagnez-2-jours-devasion-romantique-pour-2-en-europe-3/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Relais du Vin –  Gagnez 2 jours d’évasion romantique pour 2 en Europe",
+   "lot": "",
+   "lien": "https://radin.ch/relais-du-vin-gagnez-2-jours-devasion-romantique-pour-2-en-europe-2/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Coopération Mag – Gagnez une carte cadeau d’une valeur de 100 CHF",
+   "lot": "",
+   "lien": "https://radin.ch/cooperation-mag-gagnez-une-carte-cadeau-dune-valeur-de-100-chf-2/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
   {
    "titre": "Gruyère AOP – Gagnez une glacière avec 1kg de Gruyère AOP",
    "lot": "",
@@ -50,27 +71,6 @@
    "titre": "Mondovino – Gagnez des grands crus de Bordeaux",
    "lot": "",
    "lien": "https://radin.ch/mondovino-gagnez-des-grands-crus-de-bordeaux/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "RAMSEIER – Gagnez l’une des 5 nuitées d’une valeur de CHF 300.-",
-   "lot": "",
-   "lien": "https://radin.ch/ramseier-gagnez-lune-des-5-nuitees-dune-valeur-de-chf-300/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Denner – Gagnez 2 minutes de rush gratuit chez Denner",
-   "lot": "",
-   "lien": "https://radin.ch/denner-gagnez-2-minutes-de-rush-gratuit-chez-denner/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Interdiscount – Gagnez le robot aspirateur MOVA Z70",
-   "lot": "",
-   "lien": "https://radin.ch/interdiscount-gagnez-le-robot-aspirateur-mova-z70-2/",
    "dateFin": null,
    "source": "Radin.ch"
   },
