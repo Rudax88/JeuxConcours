@@ -1,9 +1,16 @@
 {
- "maj": "2026-08-18T04:35",
+ "maj": "2026-08-19T04:36",
  "erreurs": [
   "Concours.ch"
  ],
  "concours": [
+  {
+   "titre": "Migipedia – Devenez testeur des chiffons Migros Clean Magic",
+   "lot": "",
+   "lien": "https://radin.ch/migipedia-devenez-testeur-des-chiffons-migros-clean-magic/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
   {
    "titre": "kkiosk & AVEC – Gagnez l’un des 880 AG Night",
    "lot": "",
@@ -64,13 +71,6 @@
    "titre": "Foodlovers – Gagnez le kit parfait pour la rentrée d’une valeur de CHF 350.–",
    "lot": "",
    "lien": "https://radin.ch/foodlovers-gagnez-le-kit-parfait-pour-la-rentree-dune-valeur-de-chf-350/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Famigros – Gagnez l’une des 10 Tonieboxes 2 de couleur vert océan avec housse Mimigs",
-   "lot": "",
-   "lien": "https://radin.ch/famigros-gagnez-lune-des-10-tonieboxes-2-de-couleur-vert-ocean-avec-housse-mimigs/",
    "dateFin": null,
    "source": "Radin.ch"
   },
