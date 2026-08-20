@@ -1,5 +1,5 @@
 {
- "maj": "2026-08-19T04:36",
+ "maj": "2026-08-20T04:36",
  "erreurs": [
   "Concours.ch"
  ],
@@ -75,6 +75,13 @@
    "source": "Radin.ch"
   },
   {
+   "titre": "Génération de leads B2C : comment la portée devient 10’000 leads",
+   "lot": "",
+   "lien": "https://win4win.ch/fr/generation-leads-b2c-portee-10000-leads/",
+   "dateFin": null,
+   "source": "Win4win"
+  },
+  {
    "titre": "Performance Marketing en B2C : quand les résultats comptent plus que le feeling",
    "lot": "",
    "lien": "https://win4win.ch/fr/performance-marketing-b2c/",
@@ -113,13 +120,6 @@
    "titre": "Concours Salt – Gagne une PlayStation 5 Pro d’une valeur de CHF 799.–",
    "lot": "",
    "lien": "https://win4win.ch/fr/concours-salt-ps5/",
-   "dateFin": null,
-   "source": "Win4win"
-  },
-  {
-   "titre": "Concours Chicorée – Gagnez 1 des 5 bons d’achat de CHF 100.–",
-   "lot": "",
-   "lien": "https://win4win.ch/fr/concours-chicoree-blogconcours/",
    "dateFin": null,
    "source": "Win4win"
   }
