@@ -1,9 +1,37 @@
 {
- "maj": "2026-08-25T04:38",
+ "maj": "2026-08-26T04:39",
  "erreurs": [
   "Concours.ch"
  ],
  "concours": [
+  {
+   "titre": "Schweizerkaese – Gagnez votre kit dégustation Tête de Moine AOP",
+   "lot": "",
+   "lien": "https://radin.ch/schweizerkaese-gagnez-votre-kit-degustation-tete-de-moine-aop/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Fust – Gagnez le nouveau Fairphone Gen. 6+",
+   "lot": "",
+   "lien": "https://radin.ch/fust-gagnez-le-nouveau-fairphone-gen-6/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Armani Beauty – Gagnez le nouveau parfum « I WILL »",
+   "lot": "",
+   "lien": "https://radin.ch/armani-beauty-gagnez-le-nouveau-parfum-i-will/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Coopération Mag – Gagnez une carte cadeau d’une valeur de 100 CHF",
+   "lot": "",
+   "lien": "https://radin.ch/cooperation-mag-gagnez-une-carte-cadeau-dune-valeur-de-100-chf-3/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
   {
    "titre": "Coop – 10 cartes cadeaux Coop de CHF 50.– à gagner",
    "lot": "",
@@ -43,34 +71,6 @@
    "titre": "Hello Family – Gagnez des trekkings avec des lamas et 20x une carte cadeau JUMBO",
    "lot": "",
    "lien": "https://radin.ch/hello-family-gagnez-des-trekkings-avec-des-lamas-et-20x-une-cartes-cadeaux-jumbo/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Relais du Vin –  Gagnez 2 jours d’évasion romantique pour 2 en Europe",
-   "lot": "",
-   "lien": "https://radin.ch/relais-du-vin-gagnez-2-jours-devasion-romantique-pour-2-en-europe-3/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Relais du Vin –  Gagnez 2 jours d’évasion romantique pour 2 en Europe",
-   "lot": "",
-   "lien": "https://radin.ch/relais-du-vin-gagnez-2-jours-devasion-romantique-pour-2-en-europe-2/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Coopération Mag – Gagnez une carte cadeau d’une valeur de 100 CHF",
-   "lot": "",
-   "lien": "https://radin.ch/cooperation-mag-gagnez-une-carte-cadeau-dune-valeur-de-100-chf-2/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Gruyère AOP – Gagnez une glacière avec 1kg de Gruyère AOP",
-   "lot": "",
-   "lien": "https://radin.ch/gruyere-aop-gagnez-une-glaciere-avec-1kg-de-gruyere-aop/",
    "dateFin": null,
    "source": "Radin.ch"
   },
