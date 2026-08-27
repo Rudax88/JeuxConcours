@@ -1,9 +1,65 @@
 {
- "maj": "2026-08-26T04:39",
+ "maj": "2026-08-27T15:00",
  "erreurs": [
   "Concours.ch"
  ],
  "concours": [
+  {
+   "titre": "De’Longhi X Biscoff – Gagnez votre machine De’Longhi Eletta Ultra et votre pack Biscoff",
+   "lot": "",
+   "lien": "https://radin.ch/delonghi-x-biscoff-gagnez-votre-machine-delonghi-eletta-ultra-et-votre-pack-biscoff/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Läckerli Huus – Gagnez des cadeaux gourmands d’une valeur de CHF 160.- et 100.-",
+   "lot": "",
+   "lien": "https://radin.ch/lackerli-huus-gagnez-des-cadeaux-gourmands-dune-valeur-de-chf-160-et-100/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Migusto – Gagnez 10 grills de contact Philips",
+   "lot": "",
+   "lien": "https://radin.ch/migusto-gagnez-10-grills-de-contact-philips/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Coopération -Gagnez une escapade inoubliable au cœur du canton de Vaud",
+   "lot": "",
+   "lien": "https://radin.ch/cooperation-gagnez-une-escapade-inoubliable-au-coeur-du-canton-de-vaud/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Coopération – Gagnez des vins d’exception et découvrez Genève",
+   "lot": "",
+   "lien": "https://radin.ch/cooperation-gagnez-des-vins-dexception-et-decouvrez-geneve/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Coopération – Gagnez un séjour d’exception et découvrez Neuchâtel",
+   "lot": "",
+   "lien": "https://radin.ch/cooperation-gagnez-un-sejour-dexception-et-decouvrez-neuchatel/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Coopération, Mots fléchés – Gagnez 2 cartes cadeaux Coop de 250 CHF chacune",
+   "lot": "",
+   "lien": "https://radin.ch/cooperation-mots-fleches-gagnez-2-cartes-cadeaux-coop-de-250-chf-chacune-32/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Migros Magazine, Mots fléchés – Gagnez 2 cartes cadeaux Migros d’une valeur de 100 francs chacune",
+   "lot": "",
+   "lien": "https://radin.ch/migros-magazine-mots-fleches-gagnez-2-cartes-cadeaux-migros-dune-valeur-de-100-francs-chacune-33/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
   {
    "titre": "Schweizerkaese – Gagnez votre kit dégustation Tête de Moine AOP",
    "lot": "",
@@ -19,60 +75,11 @@
    "source": "Radin.ch"
   },
   {
-   "titre": "Armani Beauty – Gagnez le nouveau parfum « I WILL »",
+   "titre": "Acquisition de clients pour les PME : comment gagner de nouveaux clients de manière planifiée",
    "lot": "",
-   "lien": "https://radin.ch/armani-beauty-gagnez-le-nouveau-parfum-i-will/",
+   "lien": "https://win4win.ch/fr/b2c-generation-de-leads/",
    "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Coopération Mag – Gagnez une carte cadeau d’une valeur de 100 CHF",
-   "lot": "",
-   "lien": "https://radin.ch/cooperation-mag-gagnez-une-carte-cadeau-dune-valeur-de-100-chf-3/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Coop – 10 cartes cadeaux Coop de CHF 50.– à gagner",
-   "lot": "",
-   "lien": "https://radin.ch/coop-10-cartes-cadeaux-coop-de-chf-50-a-gagner/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Sweets.ch – Gagnez l’un des 5 coffrets surprises d’une valeur de CHF 100.– chacun",
-   "lot": "",
-   "lien": "https://radin.ch/sweets-ch-gagnez-lun-des-5-coffrets-surprises-dune-valeur-de-chf-100-chacun/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Migipedia – Devenez testeur des chiffons Migros Clean Magic",
-   "lot": "",
-   "lien": "https://radin.ch/migipedia-devenez-testeur-des-chiffons-migros-clean-magic/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "kkiosk & AVEC – Gagnez l’un des 880 AG Night",
-   "lot": "",
-   "lien": "https://radin.ch/kkiosk-avec-gagnez-lun-des-880-ag-night/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "EcoDrive – Gagnez 100 bons Coop Pronto d’une valeur de 100.–",
-   "lot": "",
-   "lien": "https://radin.ch/ecodrive-gagnez-100-bons-coop-pronto-dune-valeur-de-100/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Hello Family – Gagnez des trekkings avec des lamas et 20x une carte cadeau JUMBO",
-   "lot": "",
-   "lien": "https://radin.ch/hello-family-gagnez-des-trekkings-avec-des-lamas-et-20x-une-cartes-cadeaux-jumbo/",
-   "dateFin": null,
-   "source": "Radin.ch"
+   "source": "Win4win"
   },
   {
    "titre": "Concours Made in Bern : 2 nuits à Wengen à gagner en ligne",
@@ -113,13 +120,6 @@
    "titre": "Concours Chicorée – Gagne 1 des 5 bons d’achat de CHF 100.– pour ta nouvelle tenue d’été",
    "lot": "",
    "lien": "https://win4win.ch/fr/concours-chicoree-2026/",
-   "dateFin": null,
-   "source": "Win4win"
-  },
-  {
-   "titre": "Concours Conforama – Gagne un ordinateur portable HP 14″ d’une valeur de CHF 1’099.95",
-   "lot": "",
-   "lien": "https://win4win.ch/fr/concours-conforamablog/",
    "dateFin": null,
    "source": "Win4win"
   }
