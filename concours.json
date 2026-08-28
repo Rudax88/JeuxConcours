@@ -1,9 +1,30 @@
 {
- "maj": "2026-08-27T15:00",
+ "maj": "2026-08-28T15:56",
  "erreurs": [
   "Concours.ch"
  ],
  "concours": [
+  {
+   "titre": "Denner – Gagnez l’un des 5 bons Denner d’une valeur de 50 CHF",
+   "lot": "",
+   "lien": "https://radin.ch/denner-gagnez-lun-des-5-bons-denner-dune-valeur-de-50-chf/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Bell – Gagnez des billets pour le film PAW Patrol Dino + Collectionnez les 7 tatouages PAW Patrol",
+   "lot": "",
+   "lien": "https://radin.ch/bell-gagnez-des-billets-pour-le-film-paw-patrol-dino-collectionnez-les-7-tatouages-paw-patrol/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Coop Pronto – Gagnez l’un des trois bons d’une valeur de CHF 500.– chacun pour un week-end de randonnée",
+   "lot": "",
+   "lien": "https://radin.ch/coop-pronto-gagnez-lun-des-trois-bons-dune-valeur-de-chf-500-chacun-pour-un-week-end-de-randonnee/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
   {
    "titre": "De’Longhi X Biscoff – Gagnez votre machine De’Longhi Eletta Ultra et votre pack Biscoff",
    "lot": "",
@@ -50,27 +71,6 @@
    "titre": "Coopération, Mots fléchés – Gagnez 2 cartes cadeaux Coop de 250 CHF chacune",
    "lot": "",
    "lien": "https://radin.ch/cooperation-mots-fleches-gagnez-2-cartes-cadeaux-coop-de-250-chf-chacune-32/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Migros Magazine, Mots fléchés – Gagnez 2 cartes cadeaux Migros d’une valeur de 100 francs chacune",
-   "lot": "",
-   "lien": "https://radin.ch/migros-magazine-mots-fleches-gagnez-2-cartes-cadeaux-migros-dune-valeur-de-100-francs-chacune-33/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Schweizerkaese – Gagnez votre kit dégustation Tête de Moine AOP",
-   "lot": "",
-   "lien": "https://radin.ch/schweizerkaese-gagnez-votre-kit-degustation-tete-de-moine-aop/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Fust – Gagnez le nouveau Fairphone Gen. 6+",
-   "lot": "",
-   "lien": "https://radin.ch/fust-gagnez-le-nouveau-fairphone-gen-6/",
    "dateFin": null,
    "source": "Radin.ch"
   },
