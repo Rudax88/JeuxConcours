@@ -1,9 +1,30 @@
 {
- "maj": "2026-09-02T08:28",
+ "maj": "2026-09-03T08:36",
  "erreurs": [
   "Concours.ch"
  ],
  "concours": [
+  {
+   "titre": "Foodlovers – Gagnez le livre The Elegance of Time",
+   "lot": "",
+   "lien": "https://radin.ch/foodlovers-gagnez-le-livre-the-elegance-of-time/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Beauty Life – Gagnez le produit de votre choix",
+   "lot": "",
+   "lien": "https://radin.ch/beauty-life-gagnez-le-produit-de-votre-choix-3/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Migros Magazine, Mots fléchés – Gagnez 2 cartes cadeaux Migros d’une valeur de 100 francs chacune",
+   "lot": "",
+   "lien": "https://radin.ch/migros-magazine-mots-fleches-gagnez-2-cartes-cadeaux-migros-dune-valeur-de-100-francs-chacune-34/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
   {
    "titre": "Müller – Gagnez 3x 4 billets d’entrée pour Europa-Park",
    "lot": "",
@@ -50,27 +71,6 @@
    "titre": "Famigros – Gagnez l’un des 9 sets LEGO phares",
    "lot": "",
    "lien": "https://radin.ch/famigros-gagnez-lun-des-9-sets-lego-phares/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Journée du Cinéma – Gagnez 1 an de cinéma gratuit",
-   "lot": "",
-   "lien": "https://radin.ch/journee-du-cinema-gagnez-1-an-de-cinema-gratuit/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Denner – Gagnez l’un des 5 bons Denner d’une valeur de 50 CHF",
-   "lot": "",
-   "lien": "https://radin.ch/denner-gagnez-lun-des-5-bons-denner-dune-valeur-de-50-chf/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Bell – Gagnez des billets pour le film PAW Patrol Dino + Collectionnez les 7 tatouages PAW Patrol",
-   "lot": "",
-   "lien": "https://radin.ch/bell-gagnez-des-billets-pour-le-film-paw-patrol-dino-collectionnez-les-7-tatouages-paw-patrol/",
    "dateFin": null,
    "source": "Radin.ch"
   },
