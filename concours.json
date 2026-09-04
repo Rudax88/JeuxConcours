@@ -1,9 +1,51 @@
 {
- "maj": "2026-09-03T08:36",
+ "maj": "2026-09-04T08:31",
  "erreurs": [
   "Concours.ch"
  ],
  "concours": [
+  {
+   "titre": "TCS – Gagnez un des 10 bons d’une valeur de CHF 100.-",
+   "lot": "",
+   "lien": "https://radin.ch/tcs-gagnez-un-des-10-bons-dune-valeur-de-chf-100/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Raclette du Valais – Gagnez une nuitée pour deux personnes avec petit déjeuner au Grand Hôtel Zermatterhof à Zermatt",
+   "lot": "",
+   "lien": "https://radin.ch/raclette-du-valais-gagnez-une-nuitee-pour-deux-personnes-avec-petit-dejeuner-au-grand-hotel-zermatterhof-a-zermatt-2/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Coopération, Mots fléchés – Gagnez 2 cartes cadeaux Coop de 250 CHF chacune",
+   "lot": "",
+   "lien": "https://radin.ch/cooperation-mots-fleches-gagnez-2-cartes-cadeaux-coop-de-250-chf-chacune-33/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Bonne Maman et St Môret – Gagnez l’un des 5 coffrets pour un petit-déjeuner idéal",
+   "lot": "",
+   "lien": "https://radin.ch/bonne-maman-et-st-moret-gagnez-lun-des-5-coffrets-pour-un-petit-dejeuner-ideal/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Coop – Gagnez l’une des 10 cartes cadeaux Coop d’une valeur de CHF 50.–",
+   "lot": "",
+   "lien": "https://radin.ch/coop-gagnez-lune-des-10-cartes-cadeaux-coop-dune-valeur-de-chf-50-4/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Migipedia – Testez et évaluez la brosse à vaisselle durable",
+   "lot": "",
+   "lien": "https://radin.ch/migipedia-testez-et-evaluez-la-brosse-a-vaisselle-durable/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
   {
    "titre": "Foodlovers – Gagnez le livre The Elegance of Time",
    "lot": "",
@@ -29,48 +71,6 @@
    "titre": "Müller – Gagnez 3x 4 billets d’entrée pour Europa-Park",
    "lot": "",
    "lien": "https://radin.ch/muller-gagnez-3x-4-billets-dentree-pour-europa-park/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Dr Oetker – Gagnez l’une des 10 boîtes remplies meilleurs produits Dr. Oetker",
-   "lot": "",
-   "lien": "https://radin.ch/dr-oetker-gagnez-lune-des-10-boites-remplies-meilleurs-produits-dr-oetker-2/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Its Coop Travel – Gagnez un bon voyage d’une valeur de 200 CHF",
-   "lot": "",
-   "lien": "https://radin.ch/its-coop-travel-gagnez-un-bon-voyage-dune-valeur-de-200-chf-2/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Max Havelaar – Gagnez des bons Coop de 50 CHF et des coffrets de chocolat Halba",
-   "lot": "",
-   "lien": "https://radin.ch/max-havelaar-gagnez-des-bons-coop-de-50-chf-et-des-coffrets-de-chocolat-halba/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Tchibo – Gagnez des bons cadeau d’une valeur allant jusqu’à CHF 500",
-   "lot": "",
-   "lien": "https://radin.ch/tchibo-gagnez-des-bons-cadeau-dune-valeur-allant-jusqua-chf-500/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Gruyère AOP – Gagnez un kit complet à fondue",
-   "lot": "",
-   "lien": "https://radin.ch/gruyere-aop-gagnez-un-kit-complet-a-fondue/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Famigros – Gagnez l’un des 9 sets LEGO phares",
-   "lot": "",
-   "lien": "https://radin.ch/famigros-gagnez-lun-des-9-sets-lego-phares/",
    "dateFin": null,
    "source": "Radin.ch"
   },
