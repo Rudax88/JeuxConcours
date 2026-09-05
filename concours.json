@@ -1,9 +1,16 @@
 {
- "maj": "2026-09-04T08:31",
+ "maj": "2026-09-05T08:07",
  "erreurs": [
   "Concours.ch"
  ],
  "concours": [
+  {
+   "titre": "Foodlovers – Gagnez votre coffret édition Limitée Starbucks by Nespresso Pumpkin Spice",
+   "lot": "",
+   "lien": "https://radin.ch/foodlovers-gagnez-votre-coffret-edition-limitee-starbucks-by-nespresso-pumpkin-spice/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
   {
    "titre": "TCS – Gagnez un des 10 bons d’une valeur de CHF 100.-",
    "lot": "",
@@ -68,11 +75,11 @@
    "source": "Radin.ch"
   },
   {
-   "titre": "Müller – Gagnez 3x 4 billets d’entrée pour Europa-Park",
+   "titre": "Concours Cerjo : 10 bons de CHF 100.– à gagner en ligne",
    "lot": "",
-   "lien": "https://radin.ch/muller-gagnez-3x-4-billets-dentree-pour-europa-park/",
+   "lien": "https://win4win.ch/fr/concours-cerjo/",
    "dateFin": null,
-   "source": "Radin.ch"
+   "source": "Win4win"
   },
   {
    "titre": "Acquisition de clients pour les PME : comment gagner de nouveaux clients de manière planifiée",
@@ -113,13 +120,6 @@
    "titre": "Concours TCS – Gagne 1 des 4 sets de bateau gonflable Bestway d’une valeur de CHF 237.–",
    "lot": "",
    "lien": "https://win4win.ch/fr/concours-tcs/",
-   "dateFin": null,
-   "source": "Win4win"
-  },
-  {
-   "titre": "Concours Chicorée – Gagne 1 des 5 bons d’achat de CHF 100.– pour ta nouvelle tenue d’été",
-   "lot": "",
-   "lien": "https://win4win.ch/fr/concours-chicoree-2026/",
    "dateFin": null,
    "source": "Win4win"
   }
