@@ -1,9 +1,37 @@
 {
- "maj": "2026-09-07T08:59",
+ "maj": "2026-09-08T08:39",
  "erreurs": [
   "Concours.ch"
  ],
  "concours": [
+  {
+   "titre": "Lidl « Mon avis »- Gagnez 20 bons d’achat d’une valeur de 20 CHF chacun",
+   "lot": "",
+   "lien": "https://radin.ch/lidl-mon-avis-gagnez-20-bons-dachat-dune-valeur-de-20-chf-chacun-2/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Ovomaltine – Gagnez un mois de snacks Ovo",
+   "lot": "",
+   "lien": "https://radin.ch/ovomaltine-gagnez-un-mois-de-snacks-ovo/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Conforama – Gagnez plus de CHF 30’000.– de cadeaux pour les 50 ans de Conforama",
+   "lot": "",
+   "lien": "https://radin.ch/conforama-gagnez-plus-de-chf-30000-de-cadeaux-pour-les-50-ans-de-conforama/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Basel – Gagnez  2× 2 billets pour Europa-Park",
+   "lot": "",
+   "lien": "https://radin.ch/basel-gagnez-2x-2-billets-pour-europa-park/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
   {
    "titre": "Foodlovers – Gagnez votre coffret édition Limitée Starbucks by Nespresso Pumpkin Spice",
    "lot": "",
@@ -43,34 +71,6 @@
    "titre": "Coop – Gagnez l’une des 10 cartes cadeaux Coop d’une valeur de CHF 50.–",
    "lot": "",
    "lien": "https://radin.ch/coop-gagnez-lune-des-10-cartes-cadeaux-coop-dune-valeur-de-chf-50-4/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Migipedia – Testez et évaluez la brosse à vaisselle durable",
-   "lot": "",
-   "lien": "https://radin.ch/migipedia-testez-et-evaluez-la-brosse-a-vaisselle-durable/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Foodlovers – Gagnez le livre The Elegance of Time",
-   "lot": "",
-   "lien": "https://radin.ch/foodlovers-gagnez-le-livre-the-elegance-of-time/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Beauty Life – Gagnez le produit de votre choix",
-   "lot": "",
-   "lien": "https://radin.ch/beauty-life-gagnez-le-produit-de-votre-choix-3/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Migros Magazine, Mots fléchés – Gagnez 2 cartes cadeaux Migros d’une valeur de 100 francs chacune",
-   "lot": "",
-   "lien": "https://radin.ch/migros-magazine-mots-fleches-gagnez-2-cartes-cadeaux-migros-dune-valeur-de-100-francs-chacune-34/",
    "dateFin": null,
    "source": "Radin.ch"
   },
