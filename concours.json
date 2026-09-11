@@ -1,9 +1,30 @@
 {
- "maj": "2026-09-10T08:41",
+ "maj": "2026-09-11T08:39",
  "erreurs": [
   "Concours.ch"
  ],
  "concours": [
+  {
+   "titre": "Migipedia – Testez la ligne de linges en tissu éponge Migros Home",
+   "lot": "",
+   "lien": "https://radin.ch/migipedia-testez-la-ligne-de-linges-en-tissu-eponge-migros-home/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Migipedia – Testez le nouveau Handy Orchid",
+   "lot": "",
+   "lien": "https://radin.ch/migipedia-testez-le-nouveau-handy-orchid/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Foodlovers – Gagnez l’un des 8 paniers remplis de délicieux produits Nestlé",
+   "lot": "",
+   "lien": "https://radin.ch/foodlovers-gagnez-lun-des-8-paniers-rempli-de-delicieux-produits-nestle/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
   {
    "titre": "Hello Family – Gagnez l’une des 20 cartes cadeaux d’une valeur de CHF 500.-",
    "lot": "",
@@ -50,27 +71,6 @@
    "titre": "Micasa – Gagnez le canapé Tom Tailor Home de vos rêves",
    "lot": "",
    "lien": "https://radin.ch/micasa-gagnez-le-canape-tom-tailor-home-de-vos-reves/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Bell – Gagnez  20 x 2 billets pour les Swiss Indoors",
-   "lot": "",
-   "lien": "https://radin.ch/bell-gagnez-20-x-2-billets-pour-les-swiss-indoors/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Manor – Gagnez le coffret parfum & soin BOSS Bottled Beyond",
-   "lot": "",
-   "lien": "https://radin.ch/manor-gagnez-le-coffret-parfum-soin-boss-bottled-beyond/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Coopération Mag – Gagnez l’un des 10 Butter Squishies",
-   "lot": "",
-   "lien": "https://radin.ch/cooperation-mag-gagnez-lun-des-10-butter-squishies/",
    "dateFin": null,
    "source": "Radin.ch"
   },
