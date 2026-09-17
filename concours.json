@@ -1,9 +1,44 @@
 {
- "maj": "2026-09-16T09:07",
+ "maj": "2026-09-17T09:15",
  "erreurs": [
   "Concours.ch"
  ],
  "concours": [
+  {
+   "titre": "Coopération, Mots fléchés – Gagnez 2 cartes cadeaux Coop de 250 CHF chacune",
+   "lot": "",
+   "lien": "https://radin.ch/cooperation-mots-fleches-gagnez-2-cartes-cadeaux-coop-de-250-chf-chacune-35/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Aldi Suisse Tours – Gagnez des séjours de rêve",
+   "lot": "",
+   "lien": "https://radin.ch/aldi-suisse-tours-gagnez-des-sejours-de-reve-2/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Aldi Suisse Tours – Gagnez des séjours de rêve",
+   "lot": "",
+   "lien": "https://radin.ch/aldi-suisse-tours-gagnez-des-sejours-de-reve/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Patate.ch – Gagnez un E-Bike d’exception d’une valeur de CHF 5’199.–",
+   "lot": "",
+   "lien": "https://radin.ch/patate-ch-gagnez-un-e-bike-dexception-dune-valeur-de-chf-5199/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Migros Magazine, Mots fléchés – Gagnez 2 cartes cadeaux Migros d’une valeur de 100 francs chacune",
+   "lot": "",
+   "lien": "https://radin.ch/migros-magazine-mots-fleches-gagnez-2-cartes-cadeaux-migros-dune-valeur-de-100-francs-chacune-36/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
   {
    "titre": "Fust – Gagnez l’un des 3 alliés gain de place pour votre cuisine",
    "lot": "",
@@ -36,41 +71,6 @@
    "titre": "Coop Pronto – Gagnez des prix d’une valeur totale de 2 100 CHF",
    "lot": "",
    "lien": "https://radin.ch/coop-pronto-gagnez-des-prix-dune-valeur-totale-de-2-100-chf/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Migros Impuls – Gagnez un séjour en famille d’exception à Europa-Park & Rulantica",
-   "lot": "",
-   "lien": "https://radin.ch/migros-impuls-gagnez-un-sejour-en-famille-dexception-a-europa-park-rulantica/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Migipedia – Testez la ligne de linges en tissu éponge Migros Home",
-   "lot": "",
-   "lien": "https://radin.ch/migipedia-testez-la-ligne-de-linges-en-tissu-eponge-migros-home/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Migipedia – Testez le nouveau Handy Orchid",
-   "lot": "",
-   "lien": "https://radin.ch/migipedia-testez-le-nouveau-handy-orchid/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Foodlovers – Gagnez l’un des 8 paniers remplis de délicieux produits Nestlé",
-   "lot": "",
-   "lien": "https://radin.ch/foodlovers-gagnez-lun-des-8-paniers-rempli-de-delicieux-produits-nestle/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Hello Family – Gagnez l’une des 20 cartes cadeaux d’une valeur de CHF 500.-",
-   "lot": "",
-   "lien": "https://radin.ch/hello-family-gagnez-lune-des-20-cartes-cadeaux-dune-valeur-de-chf-500-2/",
    "dateFin": null,
    "source": "Radin.ch"
   },
