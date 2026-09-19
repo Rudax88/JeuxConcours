@@ -1,9 +1,44 @@
 {
- "maj": "2026-09-18T08:52",
+ "maj": "2026-09-19T08:36",
  "erreurs": [
   "Concours.ch"
  ],
  "concours": [
+  {
+   "titre": "Hello Family – Gagnez une nuit d’hôtel et une entrée familiale à la Forêt enchantée de Lenzerheide",
+   "lot": "",
+   "lien": "https://radin.ch/hello-family-gagnez-une-nuit-dhotel-et-une-entree-familiale-a-la-foret-enchantee-de-lenzerheide/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Migipedia – Testez les nouveaux Blévita Pizza Style",
+   "lot": "",
+   "lien": "https://radin.ch/migipedia-testez-les-nouveaux-blevita-pizza-style/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Coop Pronto – Gagnez 1 million de Superpoints ou de superbes prix instantanés",
+   "lot": "",
+   "lien": "https://radin.ch/coop-pronto-gagnez-1-million-de-superpoints-ou-de-superbes-prix-instantanes/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Mondovino – Gagnez l’un des 6 lots de 2 bouteilles de Ribera del Duero Aalto 2022",
+   "lot": "",
+   "lien": "https://radin.ch/mondovino-gagnez-lun-des-6-lots-de-2-bouteilles-de-ribera-del-duero-aalto-2022/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "It’s Coop Travel – Gagnez un bon de voyage d’une valeur de 4 000 CHF",
+   "lot": "",
+   "lien": "https://radin.ch/its-coop-travel-gagnez-un-bon-de-voyage-dune-valeur-de-4-000-chf/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
   {
    "titre": "Coopération, Mots fléchés – Gagnez 2 cartes cadeaux Coop de 250 CHF chacune",
    "lot": "",
@@ -36,41 +71,6 @@
    "titre": "Migros Magazine, Mots fléchés – Gagnez 2 cartes cadeaux Migros d’une valeur de 100 francs chacune",
    "lot": "",
    "lien": "https://radin.ch/migros-magazine-mots-fleches-gagnez-2-cartes-cadeaux-migros-dune-valeur-de-100-francs-chacune-36/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Fust – Gagnez l’un des 3 alliés gain de place pour votre cuisine",
-   "lot": "",
-   "lien": "https://radin.ch/fust-gagnez-lun-des-3-allies-gain-de-place-pour-votre-cuisine/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "La Poste – Gagnez 10x 4 places de cinéma pour «Shaun le mouton – La bêêête d’Halloween»",
-   "lot": "",
-   "lien": "https://radin.ch/la-poste-gagnez-10x-4-places-de-cinema-pour-shaun-le-mouton-la-beeete-dhalloween/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "SlowUp – Gagnez des prix exceptionnels d’une valeur totale de CHF 19’000.-",
-   "lot": "",
-   "lien": "https://radin.ch/slowup-gagnez-des-prix-exceptionnels-dune-valeur-totale-de-chf-19000/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Ikea – Gagnez l’une des 10 cartes-cadeaux d’une valeur de CHF 1000.-",
-   "lot": "",
-   "lien": "https://radin.ch/ikea-gagnez-lune-des-10-cartes-cadeaux-dune-valeur-de-chf-1000/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Coop Pronto – Gagnez des prix d’une valeur totale de 2 100 CHF",
-   "lot": "",
-   "lien": "https://radin.ch/coop-pronto-gagnez-des-prix-dune-valeur-totale-de-2-100-chf/",
    "dateFin": null,
    "source": "Radin.ch"
   },
