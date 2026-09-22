@@ -1,9 +1,30 @@
 {
- "maj": "2026-09-21T09:40",
+ "maj": "2026-09-22T09:05",
  "erreurs": [
   "Concours.ch"
  ],
  "concours": [
+  {
+   "titre": "Bindella – Gagnez un séjour d’exception en Toscane",
+   "lot": "",
+   "lien": "https://radin.ch/bindella-gagnez-un-sejour-dexception-en-toscane/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "BPA – Gagnez des cartes Reka et des entrées au Musée des Transports",
+   "lot": "",
+   "lien": "https://radin.ch/bpa-gagnez-des-cartes-reka-et-des-entrees-au-musee-des-transports/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Gruyère AOP – Gagnez une paire de skis de la marque AK, aux couleurs du Gruyère AOP",
+   "lot": "",
+   "lien": "https://radin.ch/gruyere-aop-gagnez-une-paire-de-skis-de-la-marque-ak-aux-couleurs-du-gruyere-aop/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
   {
    "titre": "Hello Family – Gagnez une nuit d’hôtel et une entrée familiale à la Forêt enchantée de Lenzerheide",
    "lot": "",
@@ -50,27 +71,6 @@
    "titre": "Aldi Suisse Tours – Gagnez des séjours de rêve",
    "lot": "",
    "lien": "https://radin.ch/aldi-suisse-tours-gagnez-des-sejours-de-reve-2/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Aldi Suisse Tours – Gagnez des séjours de rêve",
-   "lot": "",
-   "lien": "https://radin.ch/aldi-suisse-tours-gagnez-des-sejours-de-reve/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Patate.ch – Gagnez un E-Bike d’exception d’une valeur de CHF 5’199.–",
-   "lot": "",
-   "lien": "https://radin.ch/patate-ch-gagnez-un-e-bike-dexception-dune-valeur-de-chf-5199/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Migros Magazine, Mots fléchés – Gagnez 2 cartes cadeaux Migros d’une valeur de 100 francs chacune",
-   "lot": "",
-   "lien": "https://radin.ch/migros-magazine-mots-fleches-gagnez-2-cartes-cadeaux-migros-dune-valeur-de-100-francs-chacune-36/",
    "dateFin": null,
    "source": "Radin.ch"
   },
