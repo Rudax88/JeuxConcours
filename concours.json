@@ -1,9 +1,23 @@
 {
- "maj": "2026-09-22T09:05",
+ "maj": "2026-09-23T09:07",
  "erreurs": [
   "Concours.ch"
  ],
  "concours": [
+  {
+   "titre": "JYSK – Gagnez des cartes-cadeaux et un voyage de rêve au Danemark",
+   "lot": "",
+   "lien": "https://radin.ch/jysk-gagnez-des-cartes-cadeaux-et-un-voyage-de-reve-au-danemark/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Coopération Mag – Gagnez une carte cadeau d’une valeur de 100 CHF",
+   "lot": "",
+   "lien": "https://radin.ch/cooperation-mag-gagnez-une-carte-cadeau-dune-valeur-de-100-chf-5/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
   {
    "titre": "Bindella – Gagnez un séjour d’exception en Toscane",
    "lot": "",
@@ -57,20 +71,6 @@
    "titre": "It’s Coop Travel – Gagnez un bon de voyage d’une valeur de 4 000 CHF",
    "lot": "",
    "lien": "https://radin.ch/its-coop-travel-gagnez-un-bon-de-voyage-dune-valeur-de-4-000-chf/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Coopération, Mots fléchés – Gagnez 2 cartes cadeaux Coop de 250 CHF chacune",
-   "lot": "",
-   "lien": "https://radin.ch/cooperation-mots-fleches-gagnez-2-cartes-cadeaux-coop-de-250-chf-chacune-35/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Aldi Suisse Tours – Gagnez des séjours de rêve",
-   "lot": "",
-   "lien": "https://radin.ch/aldi-suisse-tours-gagnez-des-sejours-de-reve-2/",
    "dateFin": null,
    "source": "Radin.ch"
   },
