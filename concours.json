@@ -1,7 +1,79 @@
 {
- "maj": "2026-09-26T09:11",
- "erreurs": [],
+ "maj": "2026-09-27T09:51",
+ "erreurs": [
+  "Concours.ch"
+ ],
  "concours": [
+  {
+   "titre": "Coopération –  Gagnez l’un des 10 bons pour des vacances Reka d’une valeur de 999 CHF chacun",
+   "lot": "",
+   "lien": "https://radin.ch/cooperation-gagnez-lun-des-10-bons-pour-des-vacances-reka-dune-valeur-de-999-chf-chacun-2/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Le Matin – Gagnez vos billets pour la Foire du Valais 2026",
+   "lot": "",
+   "lien": "https://radin.ch/le-matin-gagnez-vos-billets-pour-la-foire-du-valais-2026/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Migipedia – Testez la serpillère de rechange avec fibre de diamant",
+   "lot": "",
+   "lien": "https://radin.ch/migipedia-testez-la-serpillere-de-rechange-avec-fibre-de-diamant/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "My Switzerland – Gagnez une escapade automnale de rêve au Frutt Mountain Resort",
+   "lot": "",
+   "lien": "https://radin.ch/my-switzerland-gagnez-une-escapade-automnale-de-reve-au-frutt-mountain-resort/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "ELLE Suisse – Gagnez une escapade de luxe et vos soins d’exception Alpeor",
+   "lot": "",
+   "lien": "https://radin.ch/elle-suisse-gagnez-une-escapade-de-luxe-et-vos-soins-dexception-alpeor/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Fust – Gagnez de superbes appareils électroménagers Novamatic d’une valeur totale de plus de 5 500 CHF",
+   "lot": "",
+   "lien": "https://radin.ch/fust-gagnez-de-superbes-appareils-electromenagers-novamatic-dune-valeur-totale-de-plus-de-5-500-chf/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Mueller – Gagnez l’un des 5 coffrets de soins BIOTURM pour peau sèche",
+   "lot": "",
+   "lien": "https://radin.ch/mueller-gagnez-lun-des-5-coffrets-de-soins-bioturm-pour-peau-seche/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Coopération, Mots fléchés – Gagnez 2 cartes cadeaux Coop de 250 CHF chacune",
+   "lot": "",
+   "lien": "https://radin.ch/cooperation-mots-fleches-gagnez-2-cartes-cadeaux-coop-de-250-chf-chacune-36/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Interdiscount – Gagnez le robot tondeuse et ramasse-feuilles ANTHBOT N8",
+   "lot": "",
+   "lien": "https://radin.ch/interdiscount-gagnez-le-robot-tondeuse-et-ramasse-feuilles-anthbot-n8-2/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Interdiscount – Gagnez le robot tondeuse et ramasse-feuilles ANTHBOT N8",
+   "lot": "",
+   "lien": "https://radin.ch/interdiscount-gagnez-le-robot-tondeuse-et-ramasse-feuilles-anthbot-n8/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
   {
    "titre": "Concours Chicorée : 5 bons d’achat de CHF 100.– à gagner",
    "lot": "",
