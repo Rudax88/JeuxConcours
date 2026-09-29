@@ -1,9 +1,30 @@
 {
- "maj": "2026-09-28T10:39",
+ "maj": "2026-09-29T10:26",
  "erreurs": [
   "Concours.ch"
  ],
  "concours": [
+  {
+   "titre": "Kkiosk & AVEC – Gagnez 1 an d’AG et des prix immédiats avec Win & Ride",
+   "lot": "",
+   "lien": "https://radin.ch/kkiosk-avec-gagnez-1-an-dag-et-des-prix-immediats-avec-win-ride/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Burger King – Gagnez la collection Burger King x Hockey",
+   "lot": "",
+   "lien": "https://radin.ch/burger-king-gagnez-la-collection-burger-king-x-hockey/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Dr. Oetker – Gagnez un pack romantique ou des bons cinéma",
+   "lot": "",
+   "lien": "https://radin.ch/dr-oetker-gagnez-un-pack-romantique-ou-des-bons-cinema/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
   {
    "titre": "Coopération –  Gagnez l’un des 10 bons pour des vacances Reka d’une valeur de 999 CHF chacun",
    "lot": "",
@@ -54,27 +75,6 @@
    "source": "Radin.ch"
   },
   {
-   "titre": "Coopération, Mots fléchés – Gagnez 2 cartes cadeaux Coop de 250 CHF chacune",
-   "lot": "",
-   "lien": "https://radin.ch/cooperation-mots-fleches-gagnez-2-cartes-cadeaux-coop-de-250-chf-chacune-36/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Interdiscount – Gagnez le robot tondeuse et ramasse-feuilles ANTHBOT N8",
-   "lot": "",
-   "lien": "https://radin.ch/interdiscount-gagnez-le-robot-tondeuse-et-ramasse-feuilles-anthbot-n8-2/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Interdiscount – Gagnez le robot tondeuse et ramasse-feuilles ANTHBOT N8",
-   "lot": "",
-   "lien": "https://radin.ch/interdiscount-gagnez-le-robot-tondeuse-et-ramasse-feuilles-anthbot-n8/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
    "titre": "Concours Chicorée : 5 bons d’achat de CHF 100.– à gagner",
    "lot": "",
    "lien": "https://win4win.ch/fr/concours-chicoreeblog-2/",
@@ -91,7 +91,7 @@
   {
    "titre": "Acquisition de clients pour les PME : comment gagner de nouveaux clients de manière planifiée",
    "lot": "",
-   "lien": "https://win4win.ch/fr/b2c-generation-de-leads/",
+   "lien": "https://win4win.ch/fr/acquisition-clients-pme/",
    "dateFin": null,
    "source": "Win4win"
   },
