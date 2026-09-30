@@ -1,9 +1,30 @@
 {
- "maj": "2026-09-29T10:26",
+ "maj": "2026-09-30T10:18",
  "erreurs": [
   "Concours.ch"
  ],
  "concours": [
+  {
+   "titre": "Freche Freunde – Gagnez l’un des 3  bons de CHF 1’000 pour un village de vacances Reka",
+   "lot": "",
+   "lien": "https://radin.ch/freche-freunde-gagnez-lun-des-3-bons-de-chf-1000-pour-un-village-de-vacances-reka/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Migipedia – Testez les boissons Coconut Water et Watermelon Juice",
+   "lot": "",
+   "lien": "https://radin.ch/migipedia-testez-les-boissons-coconut-water-et-watermelon-juice/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Gruyère AOP – Gagnez un kit apéro Gruyère AOP",
+   "lot": "",
+   "lien": "https://radin.ch/gruyere-aop-gagnez-un-kit-apero-gruyere-aop/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
   {
    "titre": "Kkiosk & AVEC – Gagnez 1 an d’AG et des prix immédiats avec Win & Ride",
    "lot": "",
@@ -50,27 +71,6 @@
    "titre": "My Switzerland – Gagnez une escapade automnale de rêve au Frutt Mountain Resort",
    "lot": "",
    "lien": "https://radin.ch/my-switzerland-gagnez-une-escapade-automnale-de-reve-au-frutt-mountain-resort/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "ELLE Suisse – Gagnez une escapade de luxe et vos soins d’exception Alpeor",
-   "lot": "",
-   "lien": "https://radin.ch/elle-suisse-gagnez-une-escapade-de-luxe-et-vos-soins-dexception-alpeor/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Fust – Gagnez de superbes appareils électroménagers Novamatic d’une valeur totale de plus de 5 500 CHF",
-   "lot": "",
-   "lien": "https://radin.ch/fust-gagnez-de-superbes-appareils-electromenagers-novamatic-dune-valeur-totale-de-plus-de-5-500-chf/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Mueller – Gagnez l’un des 5 coffrets de soins BIOTURM pour peau sèche",
-   "lot": "",
-   "lien": "https://radin.ch/mueller-gagnez-lun-des-5-coffrets-de-soins-bioturm-pour-peau-seche/",
    "dateFin": null,
    "source": "Radin.ch"
   },
