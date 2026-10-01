@@ -1,9 +1,16 @@
 {
- "maj": "2026-09-30T10:18",
+ "maj": "2026-10-01T10:45",
  "erreurs": [
   "Concours.ch"
  ],
  "concours": [
+  {
+   "titre": "Migros Magazine, Mots fléchés – Gagnez 2 cartes cadeaux Migros d’une valeur de 100 francs chacune",
+   "lot": "",
+   "lien": "https://radin.ch/migros-magazine-mots-fleches-gagnez-2-cartes-cadeaux-migros-dune-valeur-de-100-francs-chacune-38/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
   {
    "titre": "Freche Freunde – Gagnez l’un des 3  bons de CHF 1’000 pour un village de vacances Reka",
    "lot": "",
@@ -64,13 +71,6 @@
    "titre": "Migipedia – Testez la serpillère de rechange avec fibre de diamant",
    "lot": "",
    "lien": "https://radin.ch/migipedia-testez-la-serpillere-de-rechange-avec-fibre-de-diamant/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "My Switzerland – Gagnez une escapade automnale de rêve au Frutt Mountain Resort",
-   "lot": "",
-   "lien": "https://radin.ch/my-switzerland-gagnez-une-escapade-automnale-de-reve-au-frutt-mountain-resort/",
    "dateFin": null,
    "source": "Radin.ch"
   },
