@@ -1,9 +1,30 @@
 {
- "maj": "2026-10-02T10:20",
+ "maj": "2026-10-03T09:42",
  "erreurs": [
   "Concours.ch"
  ],
  "concours": [
+  {
+   "titre": "Foodlovers – Gagnez votre boîte de chocolats Cailler JOY",
+   "lot": "",
+   "lien": "https://radin.ch/foodlovers-gagnez-votre-boite-de-chocolats-cailler-joy/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Gruyère AOP – Gagnez 4 kg du meilleur Gruyère AOP de Suisse",
+   "lot": "",
+   "lien": "https://radin.ch/gruyere-aop-gagnez-4-kg-du-meilleur-gruyere-aop-de-suisse/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "CHRIST Uhren & Schmuck – Gagnez le calendrier de l’Avent CHRIST",
+   "lot": "",
+   "lien": "https://radin.ch/christ-uhren-schmuck-gagnez-le-calendrier-de-lavent-christ/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
   {
    "titre": "Dr Oetker – Gagnez l’une des 10 boîtes remplies meilleurs produits Dr. Oetker",
    "lot": "",
@@ -54,25 +75,18 @@
    "source": "Radin.ch"
   },
   {
-   "titre": "Kägi fret – Gagnez un sac à dos Kägi et un Glücksmeter",
+   "titre": "Concours Tchibo : 3 coffrets gourmands de CHF 318.– à gagner",
    "lot": "",
-   "lien": "https://radin.ch/kagi-fret-gagnez-un-sac-a-dos-kagi-et-un-glucksmeter/",
+   "lien": "https://win4win.ch/fr/concours-tchibo-blog/",
    "dateFin": null,
-   "source": "Radin.ch"
+   "source": "Win4win"
   },
   {
-   "titre": "Migros Magazine, Mots fléchés – Gagnez 2 cartes cadeaux Migros d’une valeur de 100 francs chacune",
+   "titre": "Concours Marionnaud : 5 bons d’achat de CHF 200.– à gagner",
    "lot": "",
-   "lien": "https://radin.ch/migros-magazine-mots-fleches-gagnez-2-cartes-cadeaux-migros-dune-valeur-de-100-francs-chacune-38/",
+   "lien": "https://win4win.ch/fr/concours-marionnaud/",
    "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Freche Freunde – Gagnez l’un des 3  bons de CHF 1’000 pour un village de vacances Reka",
-   "lot": "",
-   "lien": "https://radin.ch/freche-freunde-gagnez-lun-des-3-bons-de-chf-1000-pour-un-village-de-vacances-reka/",
-   "dateFin": null,
-   "source": "Radin.ch"
+   "source": "Win4win"
   },
   {
    "titre": "Concours Chicorée : 5 bons d’achat de CHF 100.– à gagner",
@@ -113,13 +127,6 @@
    "titre": "Performance Marketing en B2C : quand les résultats comptent plus que le feeling",
    "lot": "",
    "lien": "https://win4win.ch/fr/performance-marketing-b2c/",
-   "dateFin": null,
-   "source": "Win4win"
-  },
-  {
-   "titre": "Concours Salt – Gagne une Xbox Series X d’une valeur de CHF 559.–",
-   "lot": "",
-   "lien": "https://win4win.ch/fr/concours-salt-xbox/",
    "dateFin": null,
    "source": "Win4win"
   }
