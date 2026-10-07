@@ -1,9 +1,44 @@
 {
- "maj": "2026-10-06T11:03",
+ "maj": "2026-10-07T10:52",
  "erreurs": [
   "Concours.ch"
  ],
  "concours": [
+  {
+   "titre": "Thomy – Gagnez l’une des 100 sauces chaudes ou froides THOMY",
+   "lot": "",
+   "lien": "https://radin.ch/thomy-gagnez-lune-des-100-sauces-chaudes-ou-froides-thomy/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Migros Magazine, Mots fléchés – Gagnez 2 cartes cadeaux Migros d’une valeur de 100 francs chacune",
+   "lot": "",
+   "lien": "https://radin.ch/migros-magazine-mots-fleches-gagnez-2-cartes-cadeaux-migros-dune-valeur-de-100-francs-chacune-39/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Storck – 20 petits paquets de friandises d’Halloween à gagner",
+   "lot": "",
+   "lien": "https://radin.ch/storck-20-petits-paquets-de-friandises-dhalloween-a-gagner/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "MySwitzerland – Gagnez un séjour automnal d’exception en Suisse d’une valeur de 10’000 CHF",
+   "lot": "",
+   "lien": "https://radin.ch/myswitzerland-gagnez-un-sejour-automnal-dexception-en-suisse-dune-valeur-de-10000-chf/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Migusto – Gagnez l’un des cinq appareils à raclette Mio Star",
+   "lot": "",
+   "lien": "https://radin.ch/migusto-gagnez-lun-des-cinq-appareils-a-raclette-mio-star/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
   {
    "titre": "Foodlovers – Gagnez votre boîte de chocolats Cailler JOY",
    "lot": "",
@@ -36,41 +71,6 @@
    "titre": "Lidl « Mon avis »- Gagnez 20 bons d’achat d’une valeur de 20 CHF chacun",
    "lot": "",
    "lien": "https://radin.ch/lidl-mon-avis-gagnez-20-bons-dachat-dune-valeur-de-20-chf-chacun-3/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Hello Family – Gagnez l’un des 50 sacs JaMaDu",
-   "lot": "",
-   "lien": "https://radin.ch/hello-family-gagnez-lun-des-50-sacs-jamadu-3/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Femina – Gagnez un séjour d’exception ou des billets pour Europa-Park",
-   "lot": "",
-   "lien": "https://radin.ch/femina-gagnez-un-sejour-dexception-ou-des-billets-pour-europa-park/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Find & Win by Import Parfumerie – Gagnez des bons numériques et participez à des concours",
-   "lot": "",
-   "lien": "https://radin.ch/find-win-by-import-parfumerie-gagnez-des-bons-numeriques-et-participez-a-des-concours/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Coop Pronto – Gagnez 3 × 2 cartes cadeaux Coop Pronto d’une valeur de 50 CHF chacune",
-   "lot": "",
-   "lien": "https://radin.ch/coop-pronto-gagnez-3-x-2-cartes-cadeaux-coop-pronto-dune-valeur-de-50-chf-chacune/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Fairtrade – Gagnez 5 bons d’achat La Semeuse d’une valeur de 75 francs chacun",
-   "lot": "",
-   "lien": "https://radin.ch/fairtrade-gagnez-5-bons-dachat-la-semeuse-dune-valeur-de-75-francs-chacun/",
    "dateFin": null,
    "source": "Radin.ch"
   },
