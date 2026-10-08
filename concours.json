@@ -1,9 +1,16 @@
 {
- "maj": "2026-10-07T10:52",
+ "maj": "2026-10-08T11:10",
  "erreurs": [
   "Concours.ch"
  ],
  "concours": [
+  {
+   "titre": "Hello Family – Gagnez 3x une remorque vélo Hamax ou 4x une carte-cadeau Livique de CHF 500.–",
+   "lot": "",
+   "lien": "https://radin.ch/hello-family-gagnez-3x-ne-remorque-velo-hamax-ou-4x-une-carte-cadeau-livique-de-chf-500/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
   {
    "titre": "Thomy – Gagnez l’une des 100 sauces chaudes ou froides THOMY",
    "lot": "",
@@ -68,11 +75,11 @@
    "source": "Radin.ch"
   },
   {
-   "titre": "Lidl « Mon avis »- Gagnez 20 bons d’achat d’une valeur de 20 CHF chacun",
+   "titre": "Concours Auberges de Jeunesse : 5 bons de CHF 200.–",
    "lot": "",
-   "lien": "https://radin.ch/lidl-mon-avis-gagnez-20-bons-dachat-dune-valeur-de-20-chf-chacun-3/",
+   "lien": "https://win4win.ch/fr/concours-auberges-de-jeunesse-suisses/",
    "dateFin": null,
-   "source": "Radin.ch"
+   "source": "Win4win"
   },
   {
    "titre": "Concours Fribourg : séjour bien-être à Charmey à gagner",
@@ -148,13 +155,6 @@
    "titre": "Génération de leads B2C : comment la portée devient 10’000 leads",
    "lot": "",
    "lien": "https://win4win.ch/fr/generation-leads-b2c-portee-10000-leads/",
-   "dateFin": null,
-   "source": "Win4win"
-  },
-  {
-   "titre": "Performance Marketing en B2C : quand les résultats comptent plus que le feeling",
-   "lot": "",
-   "lien": "https://win4win.ch/fr/performance-marketing-b2c/",
    "dateFin": null,
    "source": "Win4win"
   }
