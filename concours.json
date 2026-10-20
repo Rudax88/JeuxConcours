@@ -1,9 +1,65 @@
 {
- "maj": "2026-10-19T09:38",
+ "maj": "2026-10-20T09:12",
  "erreurs": [
   "Concours.ch"
  ],
  "concours": [
+  {
+   "titre": "Migipedia – Testez la nouvelle CoffeeB Pluto",
+   "lot": "",
+   "lien": "https://radin.ch/migipedia-testez-la-nouvelle-coffeeb-pluto/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Migipedia – Testez la nouvelle huile légère en spray Glow Kneipp",
+   "lot": "",
+   "lien": "https://radin.ch/migipedia-testez-la-nouvelle-huile-legere-en-spray-glow-kneipp/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Kuhn Rikon – Gagnez 3x un autocuiseur DUROMATIC® INOX de Kuhn Rikon",
+   "lot": "",
+   "lien": "https://radin.ch/kuhn-rikon-gagnez-3x-un-autocuiseur-duromatic-inox-de-kuhn-rikon/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Hello Family – Gagnez un bon de voyage ITS Coop Travel de CHF 1’000.– et de nombreux autres prix",
+   "lot": "",
+   "lien": "https://radin.ch/hello-family-gagnez-un-bon-de-voyage-its-coop-travel-de-chf-1000-et-de-nombreux-autres-prix/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Gruyère AOP – Gagnez un kit complet à fondue",
+   "lot": "",
+   "lien": "https://radin.ch/gruyere-aop-gagnez-un-kit-complet-a-fondue-2/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Haribo – Gagnez un séjour magique à Europa-Park et des douceurs HARIBO",
+   "lot": "",
+   "lien": "https://radin.ch/haribo-gagnez-un-sejour-magique-a-europa-park-et-des-douceurs-haribo/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Manor –  Gagnez une Nintendo Switch 2 ou d’autres super prix",
+   "lot": "",
+   "lien": "https://radin.ch/manor-gagnez-une-nintendo-switch-2-ou-dautres-super-prix/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Coopération – Gagnez des livres dédicacés, « L’Art de Boire le Thé avec les Crocodiles » de Sarah Marquis et « La Très Catastrophique Visite",
+   "lot": "",
+   "lien": "https://radin.ch/cooperation-gagnez-des-livres-dedicaces-lart-de-boire-le-the-avec-les-crocodiles-de-sarah-marquis-et-la-tres-catastrophique-visite-du-zoo-de-joel-dicker/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
   {
    "titre": "Confiserie Sprüngli – Gagnez le nouveau coffret de pralinés « Top Ten »",
    "lot": "",
@@ -15,62 +71,6 @@
    "titre": "Mondovino – Gagnez 3×2 bouteilles de Champagne Laurent-Perrier Millésimé 2015",
    "lot": "",
    "lien": "https://radin.ch/mondovino-gagnez-3x2-bouteilles-de-champagne-laurent-perrier-millesime-2015/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Coopération, Mots fléchés – Gagnez 2 cartes cadeaux Coop de 250 CHF chacune",
-   "lot": "",
-   "lien": "https://radin.ch/cooperation-mots-fleches-gagnez-2-cartes-cadeaux-coop-de-250-chf-chacune-37/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Supercard – Jouez chaque jour et tentez de gagner des superbes prix",
-   "lot": "",
-   "lien": "https://radin.ch/supercard-jouez-chaque-jour-et-tentez-de-gagnez-des-superbes-prix/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Interdiscount – Gagnez un robot lave-vitres Winbot",
-   "lot": "",
-   "lien": "https://radin.ch/interdiscount-gagnez-un-robot-lave-vitres-winbot-2/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Interdiscount – Gagnez un robot lave-vitres Winbot",
-   "lot": "",
-   "lien": "https://radin.ch/interdiscount-gagnez-un-robot-lave-vitres-winbot/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Genève Aeroport – Gagnez une carte cadeau Genève Aéroport d’une valeur de 1000 CHF",
-   "lot": "",
-   "lien": "https://radin.ch/geneve-aeroport-gagnez-une-carte-cadeau-geneve-aeroport-dune-valeur-de-1000-chf/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Hello Family – Gagnez 6x un but de football Salta d’une valeur de CHF 179.– ou 2x une machine à café De’Longhi d’une valeur de CHF 1’049.95",
-   "lot": "",
-   "lien": "https://radin.ch/hello-family-2/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Focuswater – Gagnez vélo nostra d’une valeur de CHF 12 000.– et d’autres prix",
-   "lot": "",
-   "lien": "https://radin.ch/focuswater-gagnez-velo-nostra-dune-valeur-de-chf-12-000-et-dautres-prix/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Migros Magazine, Mots fléchés – Gagnez 2 cartes cadeaux Migros d’une valeur de 100 francs chacune",
-   "lot": "",
-   "lien": "https://radin.ch/migros-magazine-mots-fleches-gagnez-2-cartes-cadeaux-migros-dune-valeur-de-100-francs-chacune-40/",
    "dateFin": null,
    "source": "Radin.ch"
   },
