@@ -1,9 +1,37 @@
 {
- "maj": "2026-10-20T09:12",
+ "maj": "2026-10-21T09:09",
  "erreurs": [
   "Concours.ch"
  ],
  "concours": [
+  {
+   "titre": "Famigros – Gagnez 3x une carte cadeau Migros d’une valeur de 500 CHF",
+   "lot": "",
+   "lien": "https://radin.ch/famigros-gagnez-3x-une-carte-cadeau-migros-dune-valeur-de-500-chf/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Denner – Gagnez 120 secondes de courses gratuites chez Denner",
+   "lot": "",
+   "lien": "https://radin.ch/denner-gagnez-120-secondes-de-courses-gratuites-chez-denner-2/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Coop – 2000 caddies entièrement remboursés le 29 et 30 octobre",
+   "lot": "",
+   "lien": "https://radin.ch/coop-2000-caddies-entierement-rembourses-le-29-et-30-octobre/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Coopération Mag – Gagnez une carte cadeau d’une valeur de 100 CHF",
+   "lot": "",
+   "lien": "https://radin.ch/cooperation-mag-gagnez-une-carte-cadeau-dune-valeur-de-100-chf-6/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
   {
    "titre": "Migipedia – Testez la nouvelle CoffeeB Pluto",
    "lot": "",
@@ -43,34 +71,6 @@
    "titre": "Haribo – Gagnez un séjour magique à Europa-Park et des douceurs HARIBO",
    "lot": "",
    "lien": "https://radin.ch/haribo-gagnez-un-sejour-magique-a-europa-park-et-des-douceurs-haribo/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Manor –  Gagnez une Nintendo Switch 2 ou d’autres super prix",
-   "lot": "",
-   "lien": "https://radin.ch/manor-gagnez-une-nintendo-switch-2-ou-dautres-super-prix/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Coopération – Gagnez des livres dédicacés, « L’Art de Boire le Thé avec les Crocodiles » de Sarah Marquis et « La Très Catastrophique Visite",
-   "lot": "",
-   "lien": "https://radin.ch/cooperation-gagnez-des-livres-dedicaces-lart-de-boire-le-the-avec-les-crocodiles-de-sarah-marquis-et-la-tres-catastrophique-visite-du-zoo-de-joel-dicker/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Confiserie Sprüngli – Gagnez le nouveau coffret de pralinés « Top Ten »",
-   "lot": "",
-   "lien": "https://radin.ch/confiserie-sprungli-gagnez-le-nouveau-coffret-de-pralines-top-ten/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Mondovino – Gagnez 3×2 bouteilles de Champagne Laurent-Perrier Millésimé 2015",
-   "lot": "",
-   "lien": "https://radin.ch/mondovino-gagnez-3x2-bouteilles-de-champagne-laurent-perrier-millesime-2015/",
    "dateFin": null,
    "source": "Radin.ch"
   },
