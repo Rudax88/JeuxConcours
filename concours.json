@@ -1,9 +1,65 @@
 {
- "maj": "2026-10-26T09:48",
+ "maj": "2026-10-27T09:38",
  "erreurs": [
   "Concours.ch"
  ],
  "concours": [
+  {
+   "titre": "CFF – Gagnez vos places pour le voyage inaugural des 125 ans des CFF",
+   "lot": "",
+   "lien": "https://radin.ch/cff-gagnez-vos-places-pour-le-voyage-inaugural-des-125-ans-des-cff/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Fust – Gagnez l’une des 41 cartes-cadeaux Fust",
+   "lot": "",
+   "lien": "https://radin.ch/fust-gagnez-lune-des-41-cartes-cadeaux-fust/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Lindt – Gagnez l’un des 3 calendriers de l’Avent LINDT XXL",
+   "lot": "",
+   "lien": "https://radin.ch/lindt-gagnez-lun-des-3-calendriers-de-lavent-lindt-xxl/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Coop – Gagnez un bon d’une valeur de 500 euros pour Europa-Park",
+   "lot": "",
+   "lien": "https://radin.ch/coop-gagnez-un-bon-dune-valeur-de-500-euros-pour-europa-park-2/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Avelines – Gagnez une boîte de chocolat Avelines Lait",
+   "lot": "",
+   "lien": "https://radin.ch/avelines-gagnez-une-boite-de-chocolat-avelines-lait/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Coop – Gagnez des cartes-cadeaux de CHF 1’000.– et des bons de réduction",
+   "lot": "",
+   "lien": "https://radin.ch/coop-gagnez-des-cartes-cadeaux-de-chf-1000-et-des-bons-de-reduction/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Gruyère AOP – Gagnez une soirée avec un chef à domicile",
+   "lot": "",
+   "lien": "https://radin.ch/gruyere-aop-gagnez-une-soiree-avec-un-chef-a-domicile/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "AVIA – Gagnez 5 ans de carburant gratuit et des prix instantanés",
+   "lot": "",
+   "lien": "https://radin.ch/avia-gagnez-5-ans-de-carburant-gratuit-et-des-prix-instantanes/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
   {
    "titre": "Famigros – Gagnez 3x une carte cadeau Migros d’une valeur de 500 CHF",
    "lot": "",
@@ -15,62 +71,6 @@
    "titre": "Denner – Gagnez 120 secondes de courses gratuites chez Denner",
    "lot": "",
    "lien": "https://radin.ch/denner-gagnez-120-secondes-de-courses-gratuites-chez-denner-2/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Coop – 2000 caddies entièrement remboursés le 29 et 30 octobre",
-   "lot": "",
-   "lien": "https://radin.ch/coop-2000-caddies-entierement-rembourses-le-29-et-30-octobre/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Coopération Mag – Gagnez une carte cadeau d’une valeur de 100 CHF",
-   "lot": "",
-   "lien": "https://radin.ch/cooperation-mag-gagnez-une-carte-cadeau-dune-valeur-de-100-chf-6/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Migipedia – Testez la nouvelle CoffeeB Pluto",
-   "lot": "",
-   "lien": "https://radin.ch/migipedia-testez-la-nouvelle-coffeeb-pluto/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Migipedia – Testez la nouvelle huile légère en spray Glow Kneipp",
-   "lot": "",
-   "lien": "https://radin.ch/migipedia-testez-la-nouvelle-huile-legere-en-spray-glow-kneipp/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Kuhn Rikon – Gagnez 3x un autocuiseur DUROMATIC® INOX de Kuhn Rikon",
-   "lot": "",
-   "lien": "https://radin.ch/kuhn-rikon-gagnez-3x-un-autocuiseur-duromatic-inox-de-kuhn-rikon/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Hello Family – Gagnez un bon de voyage ITS Coop Travel de CHF 1’000.– et de nombreux autres prix",
-   "lot": "",
-   "lien": "https://radin.ch/hello-family-gagnez-un-bon-de-voyage-its-coop-travel-de-chf-1000-et-de-nombreux-autres-prix/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Gruyère AOP – Gagnez un kit complet à fondue",
-   "lot": "",
-   "lien": "https://radin.ch/gruyere-aop-gagnez-un-kit-complet-a-fondue-2/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Haribo – Gagnez un séjour magique à Europa-Park et des douceurs HARIBO",
-   "lot": "",
-   "lien": "https://radin.ch/haribo-gagnez-un-sejour-magique-a-europa-park-et-des-douceurs-haribo/",
    "dateFin": null,
    "source": "Radin.ch"
   },
