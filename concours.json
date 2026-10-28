@@ -1,9 +1,16 @@
 {
- "maj": "2026-10-27T09:38",
+ "maj": "2026-10-28T10:23",
  "erreurs": [
   "Concours.ch"
  ],
  "concours": [
+  {
+   "titre": "Coopération Mag – Gagnez une carte cadeau d’une valeur de 100 CHF",
+   "lot": "",
+   "lien": "https://radin.ch/cooperation-mag-gagnez-une-carte-cadeau-dune-valeur-de-100-chf-7/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
   {
    "titre": "CFF – Gagnez vos places pour le voyage inaugural des 125 ans des CFF",
    "lot": "",
@@ -64,13 +71,6 @@
    "titre": "Famigros – Gagnez 3x une carte cadeau Migros d’une valeur de 500 CHF",
    "lot": "",
    "lien": "https://radin.ch/famigros-gagnez-3x-une-carte-cadeau-migros-dune-valeur-de-500-chf/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Denner – Gagnez 120 secondes de courses gratuites chez Denner",
-   "lot": "",
-   "lien": "https://radin.ch/denner-gagnez-120-secondes-de-courses-gratuites-chez-denner-2/",
    "dateFin": null,
    "source": "Radin.ch"
   },
