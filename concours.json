@@ -1,9 +1,44 @@
 {
- "maj": "2026-10-28T10:23",
+ "maj": "2026-10-29T10:43",
  "erreurs": [
   "Concours.ch"
  ],
  "concours": [
+  {
+   "titre": "Hello Family – Gagnez un ensemble de valises ou un séjour au rocksresort à Laax",
+   "lot": "",
+   "lien": "https://radin.ch/hello-family-gagnez-un-ensemble-de-valises-ou-un-sejour-au-rocksresort-a-laax/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Denner – Gagnez des billets pour les SWISS Ice Hockey Games",
+   "lot": "",
+   "lien": "https://radin.ch/denner-gagnez-des-billets-pour-les-swiss-ice-hockey-games/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Beauty Life – Gagnez le produit de votre choix",
+   "lot": "",
+   "lien": "https://radin.ch/beauty-life-gagnez-le-produit-de-votre-choix-4/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Migros Magazine, Mots fléchés – Gagnez 2 cartes cadeaux Migros d’une valeur de 100 francs chacune",
+   "lot": "",
+   "lien": "https://radin.ch/migros-magazine-mots-fleches-gagnez-2-cartes-cadeaux-migros-dune-valeur-de-100-francs-chacune-41/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Coopération, Mots fléchés – Gagnez 2 cartes cadeaux Coop de 250 CHF chacune",
+   "lot": "",
+   "lien": "https://radin.ch/cooperation-mots-fleches-gagnez-2-cartes-cadeaux-coop-de-250-chf-chacune-38/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
   {
    "titre": "Coopération Mag – Gagnez une carte cadeau d’une valeur de 100 CHF",
    "lot": "",
@@ -36,41 +71,6 @@
    "titre": "Coop – Gagnez un bon d’une valeur de 500 euros pour Europa-Park",
    "lot": "",
    "lien": "https://radin.ch/coop-gagnez-un-bon-dune-valeur-de-500-euros-pour-europa-park-2/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Avelines – Gagnez une boîte de chocolat Avelines Lait",
-   "lot": "",
-   "lien": "https://radin.ch/avelines-gagnez-une-boite-de-chocolat-avelines-lait/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Coop – Gagnez des cartes-cadeaux de CHF 1’000.– et des bons de réduction",
-   "lot": "",
-   "lien": "https://radin.ch/coop-gagnez-des-cartes-cadeaux-de-chf-1000-et-des-bons-de-reduction/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Gruyère AOP – Gagnez une soirée avec un chef à domicile",
-   "lot": "",
-   "lien": "https://radin.ch/gruyere-aop-gagnez-une-soiree-avec-un-chef-a-domicile/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "AVIA – Gagnez 5 ans de carburant gratuit et des prix instantanés",
-   "lot": "",
-   "lien": "https://radin.ch/avia-gagnez-5-ans-de-carburant-gratuit-et-des-prix-instantanes/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Famigros – Gagnez 3x une carte cadeau Migros d’une valeur de 500 CHF",
-   "lot": "",
-   "lien": "https://radin.ch/famigros-gagnez-3x-une-carte-cadeau-migros-dune-valeur-de-500-chf/",
    "dateFin": null,
    "source": "Radin.ch"
   },
