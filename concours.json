@@ -1,9 +1,44 @@
 {
- "maj": "2026-11-03T11:40",
+ "maj": "2026-11-04T11:53",
  "erreurs": [
   "Concours.ch"
  ],
  "concours": [
+  {
+   "titre": "Import Parfumerie – Gagnez une escapade de luxe au Park Hotel Vitznau",
+   "lot": "",
+   "lien": "https://radin.ch/import-parfumerie-gagnez-une-escapade-de-luxe-au-park-hotel-vitznau/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "La Semeuse x Grimentz-Zinal – Gagnez un forfait de ski avec une machine CoffeeB",
+   "lot": "",
+   "lien": "https://radin.ch/la-semeuse-x-grimentz-zinal-gagnez-un-forfait-de-ski-avec-une-machine-coffeeb/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Landi – Gagnez votre vœu de Noël sur mesure grâce à LANDI",
+   "lot": "",
+   "lien": "https://radin.ch/landi-gagnez-votre-voeu-de-noel-sur-mesure-grace-a-landi/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Max havelaar – Gagnez l’un des 5 sets de jus de fruits MICHEL",
+   "lot": "",
+   "lien": "https://radin.ch/max-havelaar-gagnez-lun-des-5-sets-de-jus-de-fruits-michel/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Interlaken Tourismus – Gagnez des prix d’exception chaque jour de novembre",
+   "lot": "",
+   "lien": "https://radin.ch/interlaken-tourismus-gagnez-des-prix-dexception-chaque-jour-de-novembre/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
   {
    "titre": "Foodlovers – Gagnez l’un des calendriers de l’Avent Cailler ou KitKat",
    "lot": "",
@@ -36,41 +71,6 @@
    "titre": "Hello Family – Gagnez un ensemble de valises ou un séjour au rocksresort à Laax",
    "lot": "",
    "lien": "https://radin.ch/hello-family-gagnez-un-ensemble-de-valises-ou-un-sejour-au-rocksresort-a-laax/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Denner – Gagnez des billets pour les SWISS Ice Hockey Games",
-   "lot": "",
-   "lien": "https://radin.ch/denner-gagnez-des-billets-pour-les-swiss-ice-hockey-games/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Beauty Life – Gagnez le produit de votre choix",
-   "lot": "",
-   "lien": "https://radin.ch/beauty-life-gagnez-le-produit-de-votre-choix-4/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Migros Magazine, Mots fléchés – Gagnez 2 cartes cadeaux Migros d’une valeur de 100 francs chacune",
-   "lot": "",
-   "lien": "https://radin.ch/migros-magazine-mots-fleches-gagnez-2-cartes-cadeaux-migros-dune-valeur-de-100-francs-chacune-41/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Coopération, Mots fléchés – Gagnez 2 cartes cadeaux Coop de 250 CHF chacune",
-   "lot": "",
-   "lien": "https://radin.ch/cooperation-mots-fleches-gagnez-2-cartes-cadeaux-coop-de-250-chf-chacune-38/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Coopération Mag – Gagnez une carte cadeau d’une valeur de 100 CHF",
-   "lot": "",
-   "lien": "https://radin.ch/cooperation-mag-gagnez-une-carte-cadeau-dune-valeur-de-100-chf-7/",
    "dateFin": null,
    "source": "Radin.ch"
   },
