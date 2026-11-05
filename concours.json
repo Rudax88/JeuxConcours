@@ -1,9 +1,23 @@
 {
- "maj": "2026-11-04T11:53",
+ "maj": "2026-11-05T11:55",
  "erreurs": [
   "Concours.ch"
  ],
  "concours": [
+  {
+   "titre": "Stilpalast – Gagnez 4 calendriers de l’Avent d’exception",
+   "lot": "",
+   "lien": "https://radin.ch/stilpalast-gagnez-4-calendriers-de-lavent-dexception/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Migros Magazine, Mots fléchés – Gagnez 2 cartes cadeaux Migros d’une valeur de 100 francs chacune",
+   "lot": "",
+   "lien": "https://radin.ch/migros-magazine-mots-fleches-gagnez-2-cartes-cadeaux-migros-dune-valeur-de-100-francs-chacune-42/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
   {
    "titre": "Import Parfumerie – Gagnez une escapade de luxe au Park Hotel Vitznau",
    "lot": "",
@@ -57,20 +71,6 @@
    "titre": "Coop pronto – Gagnez un bon Malbuner d’une valeur de CHF 500.–",
    "lot": "",
    "lien": "https://radin.ch/coop-pronto-gagnez-un-bon-malbuner-dune-valeur-de-chf-500/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Bio Suisse – Gagnez un séjour à l’hôtel Valsana à Arosa",
-   "lot": "",
-   "lien": "https://radin.ch/bio-suisse-gagnez-un-sejour-a-lhotel-valsana-a-arosa/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Hello Family – Gagnez un ensemble de valises ou un séjour au rocksresort à Laax",
-   "lot": "",
-   "lien": "https://radin.ch/hello-family-gagnez-un-ensemble-de-valises-ou-un-sejour-au-rocksresort-a-laax/",
    "dateFin": null,
    "source": "Radin.ch"
   },
