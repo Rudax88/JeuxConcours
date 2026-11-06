@@ -1,9 +1,30 @@
 {
- "maj": "2026-11-05T11:55",
+ "maj": "2026-11-06T11:51",
  "erreurs": [
   "Concours.ch"
  ],
  "concours": [
+  {
+   "titre": "Migros Online – Gagnez un bon d’achat de 500 CHF ou l’un des 356 bons Migros Online",
+   "lot": "",
+   "lien": "https://radin.ch/migros-online-gagnez-un-bon-dachat-de-500-chf-ou-lun-des-356-bons-migros-online/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Hello Family – Gagnez un séjour féerique en famille d’une valeur de CHF 5 000.– ou une machine à popcorn",
+   "lot": "",
+   "lien": "https://radin.ch/hello-family-gagnez-un-sejour-feerique-en-famille-dune-valeur-de-chf-5-000-ou-une-machine-a-popcorn-wmf-kuchenminis/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Hello Family – Gagnez une Nintendo Switch 2 ou un robot Kenwood",
+   "lot": "",
+   "lien": "https://radin.ch/hello-family-gagnez-une-nintendo-switch-2-ou-un-robot-kenwood/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
   {
    "titre": "Stilpalast – Gagnez 4 calendriers de l’Avent d’exception",
    "lot": "",
@@ -50,27 +71,6 @@
    "titre": "Interlaken Tourismus – Gagnez des prix d’exception chaque jour de novembre",
    "lot": "",
    "lien": "https://radin.ch/interlaken-tourismus-gagnez-des-prix-dexception-chaque-jour-de-novembre/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Foodlovers – Gagnez l’un des calendriers de l’Avent Cailler ou KitKat",
-   "lot": "",
-   "lien": "https://radin.ch/foodlovers-gagnez-lun-des-calendriers-de-lavent-cailler-ou-kitkat/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Coop Pronto – Gagnez l’une des 5 cartes-cadeaux Coop d’une valeur de CHF 100.– chacune",
-   "lot": "",
-   "lien": "https://radin.ch/coop-pronto-gagnez-lune-des-5-cartes-cadeaux-coop-dune-valeur-de-chf-100-chacune/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Coop pronto – Gagnez un bon Malbuner d’une valeur de CHF 500.–",
-   "lot": "",
-   "lien": "https://radin.ch/coop-pronto-gagnez-un-bon-malbuner-dune-valeur-de-chf-500/",
    "dateFin": null,
    "source": "Radin.ch"
   },
