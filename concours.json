@@ -1,9 +1,16 @@
 {
- "maj": "2026-11-06T11:51",
+ "maj": "2026-11-07T10:54",
  "erreurs": [
   "Concours.ch"
  ],
  "concours": [
+  {
+   "titre": "Kneipp –  Gagnez l’un des 3 calendriers de l’Avent Kneipp 2026",
+   "lot": "",
+   "lien": "https://radin.ch/kneipp-gagnez-lun-des-3-calendriers-de-lavent-kneipp-2026/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
   {
    "titre": "Migros Online – Gagnez un bon d’achat de 500 CHF ou l’un des 356 bons Migros Online",
    "lot": "",
@@ -64,13 +71,6 @@
    "titre": "Max havelaar – Gagnez l’un des 5 sets de jus de fruits MICHEL",
    "lot": "",
    "lien": "https://radin.ch/max-havelaar-gagnez-lun-des-5-sets-de-jus-de-fruits-michel/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Interlaken Tourismus – Gagnez des prix d’exception chaque jour de novembre",
-   "lot": "",
-   "lien": "https://radin.ch/interlaken-tourismus-gagnez-des-prix-dexception-chaque-jour-de-novembre/",
    "dateFin": null,
    "source": "Radin.ch"
   },
