@@ -1,9 +1,30 @@
 {
- "maj": "2026-11-09T12:34",
+ "maj": "2026-11-10T12:12",
  "erreurs": [
   "Concours.ch"
  ],
  "concours": [
+  {
+   "titre": "Jumbo – Gagnez de magnifiques cadeaux de Noël d’une valeur de plus de 2’500 CHF",
+   "lot": "",
+   "lien": "https://radin.ch/jumbo-gagnez-de-magnifiques-cadeaux-de-noel-dune-valeur-de-plus-de-2500-chf/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Famigros – Gagnez vos places pour la journée Famigros à Europa-Park",
+   "lot": "",
+   "lien": "https://radin.ch/famigros-gagnez-vos-places-pour-la-journee-famigros-a-europa-park/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Migipedia – Testez Purina Vital Balance High Protein",
+   "lot": "",
+   "lien": "https://radin.ch/migipedia-testez-purina-vital-balance-high-protein/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
   {
    "titre": "Kneipp –  Gagnez l’un des 3 calendriers de l’Avent Kneipp 2026",
    "lot": "",
@@ -50,27 +71,6 @@
    "titre": "Import Parfumerie – Gagnez une escapade de luxe au Park Hotel Vitznau",
    "lot": "",
    "lien": "https://radin.ch/import-parfumerie-gagnez-une-escapade-de-luxe-au-park-hotel-vitznau/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "La Semeuse x Grimentz-Zinal – Gagnez un forfait de ski avec une machine CoffeeB",
-   "lot": "",
-   "lien": "https://radin.ch/la-semeuse-x-grimentz-zinal-gagnez-un-forfait-de-ski-avec-une-machine-coffeeb/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Landi – Gagnez votre vœu de Noël sur mesure grâce à LANDI",
-   "lot": "",
-   "lien": "https://radin.ch/landi-gagnez-votre-voeu-de-noel-sur-mesure-grace-a-landi/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Max havelaar – Gagnez l’un des 5 sets de jus de fruits MICHEL",
-   "lot": "",
-   "lien": "https://radin.ch/max-havelaar-gagnez-lun-des-5-sets-de-jus-de-fruits-michel/",
    "dateFin": null,
    "source": "Radin.ch"
   },
