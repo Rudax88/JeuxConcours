@@ -1,9 +1,51 @@
 {
- "maj": "2026-11-11T11:42",
+ "maj": "2026-11-12T12:15",
  "erreurs": [
   "Concours.ch"
  ],
  "concours": [
+  {
+   "titre": "Coop – Gagnez un séjour en famille à LEGOLAND ou une des 19 cartes cadeaux de 100 CHF",
+   "lot": "",
+   "lien": "https://radin.ch/gagnez-un-sejour-en-famille-a-legoland-ou-une-des-19-cartes-cadeaux-de-100-chf/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Femelle – Gagnez l’un des deux calendriers de l’avent NUXE",
+   "lot": "",
+   "lien": "https://radin.ch/femelle-gagnez-lun-des-deux-calendriers-de-lavent-nuxe/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Lindt – Gagnez des skis Stöckli et des prix Lindt",
+   "lot": "",
+   "lien": "https://radin.ch/lindt-gagnez-des-skis-stockli-et-des-prix-lindt/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Swissmilk – Gagnez des bons Coop et Migros d’une valeur totale de plus de 6 000 CHF",
+   "lot": "",
+   "lien": "https://radin.ch/swissmilk-gagnez-des-bons-coop-et-migros-dune-valeur-totale-de-plus-de-6-000-chf/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Migusto – Gagnez l’un des cinq Airfryer Mio Star Dual Basket",
+   "lot": "",
+   "lien": "https://radin.ch/migusto-gagnez-lun-des-cinq-airfryer-mio-star-dual-basket/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Migros Magazine, Mots fléchés – Gagnez 2 cartes cadeaux Migros d’une valeur de 100 francs chacune",
+   "lot": "",
+   "lien": "https://radin.ch/migros-magazine-mots-fleches-gagnez-2-cartes-cadeaux-migros-dune-valeur-de-100-francs-chacune-43/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
   {
    "titre": "Jumbo – Gagnez de magnifiques cadeaux de Noël d’une valeur de plus de 2’500 CHF",
    "lot": "",
@@ -29,48 +71,6 @@
    "titre": "Kneipp –  Gagnez l’un des 3 calendriers de l’Avent Kneipp 2026",
    "lot": "",
    "lien": "https://radin.ch/kneipp-gagnez-lun-des-3-calendriers-de-lavent-kneipp-2026/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Migros Online – Gagnez un bon d’achat de 500 CHF ou l’un des 356 bons Migros Online",
-   "lot": "",
-   "lien": "https://radin.ch/migros-online-gagnez-un-bon-dachat-de-500-chf-ou-lun-des-356-bons-migros-online/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Hello Family – Gagnez un séjour féerique en famille d’une valeur de CHF 5 000.– ou une machine à popcorn",
-   "lot": "",
-   "lien": "https://radin.ch/hello-family-gagnez-un-sejour-feerique-en-famille-dune-valeur-de-chf-5-000-ou-une-machine-a-popcorn-wmf-kuchenminis/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Hello Family – Gagnez une Nintendo Switch 2 ou un robot Kenwood",
-   "lot": "",
-   "lien": "https://radin.ch/hello-family-gagnez-une-nintendo-switch-2-ou-un-robot-kenwood/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Stilpalast – Gagnez 4 calendriers de l’Avent d’exception",
-   "lot": "",
-   "lien": "https://radin.ch/stilpalast-gagnez-4-calendriers-de-lavent-dexception/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Migros Magazine, Mots fléchés – Gagnez 2 cartes cadeaux Migros d’une valeur de 100 francs chacune",
-   "lot": "",
-   "lien": "https://radin.ch/migros-magazine-mots-fleches-gagnez-2-cartes-cadeaux-migros-dune-valeur-de-100-francs-chacune-42/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Import Parfumerie – Gagnez une escapade de luxe au Park Hotel Vitznau",
-   "lot": "",
-   "lien": "https://radin.ch/import-parfumerie-gagnez-une-escapade-de-luxe-au-park-hotel-vitznau/",
    "dateFin": null,
    "source": "Radin.ch"
   },
