@@ -1,9 +1,23 @@
 {
- "maj": "2026-11-12T12:15",
+ "maj": "2026-11-13T11:54",
  "erreurs": [
   "Concours.ch"
  ],
  "concours": [
+  {
+   "titre": "Storck – Gagnez l’un des 10 calendriers de l’Avent merci",
+   "lot": "",
+   "lien": "https://radin.ch/storck-gagnez-lun-des-10-calendriers-de-lavent-merci/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Coopération – Gagnez l’un des 5 bons d’achat de 100 CHF",
+   "lot": "",
+   "lien": "https://radin.ch/cooperation-gagnez-lun-des-5-bons-dachat-de-100-chf/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
   {
    "titre": "Coop – Gagnez un séjour en famille à LEGOLAND ou une des 19 cartes cadeaux de 100 CHF",
    "lot": "",
@@ -57,20 +71,6 @@
    "titre": "Famigros – Gagnez vos places pour la journée Famigros à Europa-Park",
    "lot": "",
    "lien": "https://radin.ch/famigros-gagnez-vos-places-pour-la-journee-famigros-a-europa-park/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Migipedia – Testez Purina Vital Balance High Protein",
-   "lot": "",
-   "lien": "https://radin.ch/migipedia-testez-purina-vital-balance-high-protein/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Kneipp –  Gagnez l’un des 3 calendriers de l’Avent Kneipp 2026",
-   "lot": "",
-   "lien": "https://radin.ch/kneipp-gagnez-lun-des-3-calendriers-de-lavent-kneipp-2026/",
    "dateFin": null,
    "source": "Radin.ch"
   },
