@@ -1,9 +1,44 @@
 {
- "maj": "2026-11-13T11:54",
+ "maj": "2026-11-14T11:14",
  "erreurs": [
   "Concours.ch"
  ],
  "concours": [
+  {
+   "titre": "Victorinox – Gagnez l’un des 3 bons d’une valeur de 100 CHF",
+   "lot": "",
+   "lien": "https://radin.ch/victorinox-gagnez-lun-des-3-bons-dune-valeur-de-100-chf/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Assugrin – Gagnez un séjour de rêve à Grindelwald, des bons Coop et des coffrets Assugrin",
+   "lot": "",
+   "lien": "https://radin.ch/assugrin-gagnez-un-sejour-de-reve-a-grindelwald-des-bons-coop-et-des-coffrets-assugrin/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Coca-Cola – Gagnez un voyage de rêve en Laponie et des cadeaux instantanés",
+   "lot": "",
+   "lien": "https://radin.ch/coca-cola-gagnez-un-voyage-de-reve-en-laponie-et-des-cadeaux-instantanes/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Jysk – Gagnez une carte-cadeau pour vos achats du Black Friday",
+   "lot": "",
+   "lien": "https://radin.ch/jysk-gagnez-une-carte-cadeau-pour-vos-achats-du-black-friday/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Familia – Gagnez de superbes prix d’une valeur totale de CHF 1’450.–",
+   "lot": "",
+   "lien": "https://radin.ch/familia-gagnez-de-superbes-prix-dune-valeur-totale-de-chf-1450/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
   {
    "titre": "Storck – Gagnez l’un des 10 calendriers de l’Avent merci",
    "lot": "",
@@ -36,41 +71,6 @@
    "titre": "Lindt – Gagnez des skis Stöckli et des prix Lindt",
    "lot": "",
    "lien": "https://radin.ch/lindt-gagnez-des-skis-stockli-et-des-prix-lindt/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Swissmilk – Gagnez des bons Coop et Migros d’une valeur totale de plus de 6 000 CHF",
-   "lot": "",
-   "lien": "https://radin.ch/swissmilk-gagnez-des-bons-coop-et-migros-dune-valeur-totale-de-plus-de-6-000-chf/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Migusto – Gagnez l’un des cinq Airfryer Mio Star Dual Basket",
-   "lot": "",
-   "lien": "https://radin.ch/migusto-gagnez-lun-des-cinq-airfryer-mio-star-dual-basket/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Migros Magazine, Mots fléchés – Gagnez 2 cartes cadeaux Migros d’une valeur de 100 francs chacune",
-   "lot": "",
-   "lien": "https://radin.ch/migros-magazine-mots-fleches-gagnez-2-cartes-cadeaux-migros-dune-valeur-de-100-francs-chacune-43/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Jumbo – Gagnez de magnifiques cadeaux de Noël d’une valeur de plus de 2’500 CHF",
-   "lot": "",
-   "lien": "https://radin.ch/jumbo-gagnez-de-magnifiques-cadeaux-de-noel-dune-valeur-de-plus-de-2500-chf/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Famigros – Gagnez vos places pour la journée Famigros à Europa-Park",
-   "lot": "",
-   "lien": "https://radin.ch/famigros-gagnez-vos-places-pour-la-journee-famigros-a-europa-park/",
    "dateFin": null,
    "source": "Radin.ch"
   },
