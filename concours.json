@@ -1,9 +1,37 @@
 {
- "maj": "2026-11-16T12:28",
+ "maj": "2026-11-17T12:49",
  "erreurs": [
   "Concours.ch"
  ],
  "concours": [
+  {
+   "titre": "La Poste – Gagnez l’un des 10 lots mis en jeu d’une valeur de 146 CHF chacun",
+   "lot": "",
+   "lien": "https://radin.ch/la-poste-gagnez-lun-des-10-lots-mis-en-jeu-dune-valeur-de-146-chf-chacun/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Lidl Plus – Gagnez 5x 1 an de courses gratuites et des lots pour une valeur totale de 250’000 CHF",
+   "lot": "",
+   "lien": "https://radin.ch/lidl-plus-gagnez-5x-1-an-de-courses-gratuites-et-des-lots-pour-une-valeur-totale-de-250000-chf/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Fooby – Gagnez un dîner pour deux d’une valeur de CHF 500 chez «De Matos» à Lucerne",
+   "lot": "",
+   "lien": "https://radin.ch/fooby-gagnez-un-diner-pour-deux-dune-valeur-de-chf-500-chez-de-matos-a-lucerne/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
+  {
+   "titre": "Migipedia – Testez les nouveaux Tempo et Plenty sans rouleau",
+   "lot": "",
+   "lien": "https://radin.ch/migipedia-testez-les-nouveaux-tempo-et-plenty-sans-rouleau/",
+   "dateFin": null,
+   "source": "Radin.ch"
+  },
   {
    "titre": "Victorinox – Gagnez l’un des 3 bons d’une valeur de 100 CHF",
    "lot": "",
@@ -43,34 +71,6 @@
    "titre": "Storck – Gagnez l’un des 10 calendriers de l’Avent merci",
    "lot": "",
    "lien": "https://radin.ch/storck-gagnez-lun-des-10-calendriers-de-lavent-merci/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Coopération – Gagnez l’un des 5 bons d’achat de 100 CHF",
-   "lot": "",
-   "lien": "https://radin.ch/cooperation-gagnez-lun-des-5-bons-dachat-de-100-chf/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Coop – Gagnez un séjour en famille à LEGOLAND ou une des 19 cartes cadeaux de 100 CHF",
-   "lot": "",
-   "lien": "https://radin.ch/gagnez-un-sejour-en-famille-a-legoland-ou-une-des-19-cartes-cadeaux-de-100-chf/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Femelle – Gagnez l’un des deux calendriers de l’avent NUXE",
-   "lot": "",
-   "lien": "https://radin.ch/femelle-gagnez-lun-des-deux-calendriers-de-lavent-nuxe/",
-   "dateFin": null,
-   "source": "Radin.ch"
-  },
-  {
-   "titre": "Lindt – Gagnez des skis Stöckli et des prix Lindt",
-   "lot": "",
-   "lien": "https://radin.ch/lindt-gagnez-des-skis-stockli-et-des-prix-lindt/",
    "dateFin": null,
    "source": "Radin.ch"
   },
