@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-24T14:36",
+ "maj": "2026-11-25T13:56",
  "erreurs": [
   "Concours.ch"
  ],
@@ -75,6 +75,13 @@
    "source": "Radin.ch"
   },
   {
+   "titre": "Concours Tchibo : gagne l’un des 5 bons cadeaux de CHF 200.–",
+   "lot": "",
+   "lien": "https://win4win.ch/fr/concours-tchibo-bons-cadeaux/",
+   "dateFin": null,
+   "source": "Win4win"
+  },
+  {
    "titre": "Concours SalzburgerLand : 3 séjours bien-être à deux",
    "lot": "",
    "lien": "https://win4win.ch/fr/concours-salzburgerland-bien-etre/",
@@ -148,13 +155,6 @@
    "titre": "Concours Cerjo : 10 bons de CHF 100.– à gagner en ligne",
    "lot": "",
    "lien": "https://win4win.ch/fr/concours-cerjo/",
-   "dateFin": null,
-   "source": "Win4win"
-  },
-  {
-   "titre": "Acquisition de clients pour les PME : comment gagner de nouveaux clients de manière planifiée",
-   "lot": "",
-   "lien": "https://win4win.ch/fr/acquisition-clients-pme/",
    "dateFin": null,
    "source": "Win4win"
   }
