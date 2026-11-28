@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-27T13:31",
+ "maj": "2026-11-28T12:44",
  "erreurs": [
   "Concours.ch"
  ],
@@ -75,6 +75,13 @@
    "source": "Radin.ch"
   },
   {
+   "titre": "Concours TCS : gagne l’une des 25 vignettes autoroutières 2027",
+   "lot": "",
+   "lien": "https://win4win.ch/fr/concours-tcs-vignette-autoroutiere/",
+   "dateFin": null,
+   "source": "Win4win"
+  },
+  {
    "titre": "Concours Tchibo : gagne l’un des 5 bons cadeaux de CHF 200.–",
    "lot": "",
    "lien": "https://win4win.ch/fr/concours-tchibo-bons-cadeaux/",
@@ -148,13 +155,6 @@
    "titre": "Concours Chicorée : 5 bons d’achat de CHF 100.– à gagner",
    "lot": "",
    "lien": "https://win4win.ch/fr/concours-chicoreeblog-2/",
-   "dateFin": null,
-   "source": "Win4win"
-  },
-  {
-   "titre": "Concours Cerjo : 10 bons de CHF 100.– à gagner en ligne",
-   "lot": "",
-   "lien": "https://win4win.ch/fr/concours-cerjo/",
    "dateFin": null,
    "source": "Win4win"
   }
